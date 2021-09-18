@@ -6,7 +6,7 @@
 
 NestedText, a nice alternative to JSON, YAML, TOML - https://nestedtext.org
 
-* TODO Git Exercises
+* TODO Git Exercises                                                    :GIT:
 :PROPERTIES:
 :from:     hn
 :CREATED:  [2020-10-04 Sun 05:47]
@@ -108,14 +108,14 @@ http://jargon.js.org/
 
 Lambda Calculus Diagrams (2015) - https://tromp.github.io/cl/diagrams.html
 
-* TODO Three Ways of DevOps
+* TODO Three Ways of DevOps                                          :DEVOPS:
 :PROPERTIES:
 :CREATED:  [2020-10-05 Mon 06:39]
 :END:
 
 Three Ways of DevOps - https://ermetic.com/whats-new/blog/the-three-ways-of-devops/
 
-* TODO Paul Stamets on the interrelationship among mushrooms, consciousness, and nature
+* TODO Paul Stamets on the interrelationship among mushrooms, consciousness, and nature :PSYCHOLOGY:
 :PROPERTIES:
 :CREATED:  [2020-10-05 Mon 06:42]
 :END:
@@ -135,13 +135,6 @@ NestedText, a nice alternative to JSON, YAML, TOML - https://nestedtext.org
 :END:
 
 Bash Bracket Cheat Sheet (By Julia Evans) - https://wizardzines.com/comics/brackets-cheatsheet/
-
-* TODO Git Exercises
-:PROPERTIES:
-:CREATED:  [2020-10-05 Mon 06:46]
-:END:
-
-Git Exercises - https://gitexercises.fracz.com/
 
 * TODO GHunt – An OSINT tool to extract information about a Google account
 :PROPERTIES:
@@ -264,7 +257,7 @@ Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL - htt
 
 Pianojacq, an easy way to learn to play the piano - https://jacquesmattheij.com/2020-09-20-pianojacq-learn-to-play-piano/
 
-* TODO Smaller Docker Images Using Multi-Stage Builds
+* TODO Smaller Docker Images Using Multi-Stage Builds                :DOCKER:
 :PROPERTIES:
 :CREATED:  [2020-10-17 Sat 06:08]
 :END:
@@ -376,7 +369,7 @@ The surprising impact of medium-size texts on PostgreSQL performance - https://h
 
 What sharks can teach us about survivorship bias - https://fs.blog/2020/10/sharks-survivorship-bias/
 
-* TODO “A TOAST from PostgreSQL”
+* TODO A TOAST from PostgreSQL
 :PROPERTIES:
 :CREATED:  [2020-10-21 Wed 06:12]
 :END:
@@ -572,7 +565,7 @@ Next.js 10 - https://nextjs.org/blog/next-10
 
 A Grand Unified Theory of Software Architecture - https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
 
-* TODO Understand (a little) about TCP (2015)
+* TODO Understand (a little) about TCP (2015)                           :TCP:
 :PROPERTIES:
 :CREATED:  [2020-10-30 Fri 06:28]
 :END:
@@ -698,7 +691,7 @@ Awk: `Begin { ` Part 1 - https://jemma.dev/blog/awk-part-1
 
 How to waste half a day by not reading RFC 1034 - https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/
 
-* TODO The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis
+* TODO The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis :MATH:
 :PROPERTIES:
 :CREATED:  [2020-11-01 Sun 03:00]
 :END:
@@ -726,14 +719,14 @@ Dieter Rams: ten principles for good design - https://www.vitsoe.com/gb/about/go
 
 Foundations of Software Engineering - https://cmu-313.github.io
 
-* TODO Why I Prefer Functional Programming
+* TODO Why I Prefer Functional Programming                          :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-11-01 Sun 03:03]
 :END:
 
 Why I Prefer Functional Programming - http://www.haskellforall.com/2020/10/why-i-prefer-functional-programming.html
 
-* TODO Java Concurrency – Understanding the Basics of Threads
+* TODO Java Concurrency – Understanding the Basics of Threads          :JAVA:
 :PROPERTIES:
 :CREATED:  [2020-11-01 Sun 03:03]
 :END:
@@ -761,14 +754,14 @@ Gron – Make JSON Greppable - https://github.com/tomnomnom/gron
 
 A Linux sysadmin's introduction to cgroups - https://www.redhat.com/sysadmin/cgroups-part-one
 
-* TODO Understanding Distributed Consensus (2018)
+* TODO Understanding Distributed Consensus (2018)                 :CONSENSUS:
 :PROPERTIES:
 :CREATED:  [2020-11-07 Sat 08:14]
 :END:
 
 Understanding Distributed Consensus (2018) - https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus
 
-* TODO Real World Haskell
+* TODO Real World Haskell                                           :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-11-07 Sat 08:19]
 :END:
@@ -964,14 +957,14 @@ Rehex – Reverse Engineers' Hex Editor - https://github.com/solemnwarning/rehex
 
 Logseq – privacy-first, open-source knowledge sharing and management platform - https://github.com/logseq/logseq
 
-* TODO API design is stuck in the past
+* TODO API design is stuck in the past                                  :API:
 :PROPERTIES:
 :CREATED:  [2020-11-14 Sat 06:15]
 :END:
 
 API design is stuck in the past - https://buf.build/blog/api-design-is-stuck-in-the-past
 
-* TODO Pure destination-passing style in Linear Haskell
+* TODO Pure destination-passing style in Linear Haskell             :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-11-14 Sat 06:15]
 :END:
@@ -985,14 +978,7 @@ Pure destination-passing style in Linear Haskell - https://www.tweag.io/blog/202
 
 Hunting for Malicious Packages on PyPI - https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/
 
-* TODO Exotic Programming Ideas: Module Systems
-:PROPERTIES:
-:CREATED:  [2020-11-14 Sat 06:22]
-:END:
-
-Exotic Programming Ideas: Module Systems - https://www.stephendiehl.com/posts/exotic01.html
-
-* TODO Evidence-based software engineering: book released
+* TODO Evidence-based software engineering: book released              :BOOK:
 :PROPERTIES:
 :CREATED:  [2020-11-14 Sat 06:27]
 :END:
@@ -1062,7 +1048,7 @@ Angular 11 - https://blog.angular.io/version-11-of-angular-now-available-74721b7
 
 Qwant: The Search Engine That Respects Your Privacy - https://www.qwant.com/
 
-* TODO Optical Illusions and Visual Phenomena
+* TODO Optical Illusions and Visual Phenomena                    :PSYCHOLOGY:
 :PROPERTIES:
 :CREATED:  [2020-11-14 Sat 06:59]
 :END:
@@ -1097,7 +1083,7 @@ Linux Command One-Liners - https://www.commandlinefu.com/commands/browse
 
 HTTP Push Is Dead - https://evertpot.com/http-2-push-is-dead/
 
-* TODO Everything Is an X
+* TODO Everything Is an X                          :TRIVIA:REST:UNIX:HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-11-14 Sat 10:58]
 :END:
@@ -1146,7 +1132,7 @@ The rise of randomized controlled trials (RCTs) in international development [pd
 
 The Messaging Layer Security (MLS) Protocol - https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/
 
-* TODO BetterExplained: Clear, intuitive lessons about mathematics
+* TODO BetterExplained: Clear, intuitive lessons about mathematics     :MATH:
 :PROPERTIES:
 :CREATED:  [2020-11-16 Mon 06:31]
 :END:
@@ -1180,6 +1166,20 @@ Exotic Programming Ideas: Part 2 (Term Rewriting) - https://www.stephendiehl.com
 :END:
 
 Exotic Programming Ideas, Part 3: Effect Systems - https://www.stephendiehl.com/posts/exotic03.html
+
+* TODO Exotic Programming Ideas: Module Systems
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:22]
+:END:
+
+Exotic Programming Ideas: Module Systems - https://www.stephendiehl.com/posts/exotic01.html
+
+* TODO Exotic Programming Ideas
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:13]
+:END:
+
+Exotic Programming Ideas - https://www.stephendiehl.com/posts/exotic04.html
 
 * TODO Emacs in odd places :EMACS:
 :PROPERTIES:
@@ -1223,7 +1223,7 @@ Making GitHub CI workflow 3x faster - https://github.blog/2020-10-29-making-gith
 
 You don't need no service mesh - https://serce.me/posts/23-07-2020-you-dont-need-no-service-mesh/
 
-* TODO Transitioning from Docker to Podman
+* TODO Transitioning from Docker to Podman                    :DOCKER:PODMAN:
 :PROPERTIES:
 :CREATED:  [2020-11-21 Sat 02:52]
 :END:
@@ -1272,7 +1272,7 @@ A Month of Terraform - https://jeremywsherman.com/blog/2020/11/21/a-month-of-ter
 
 COBOL Controls Your Money - https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money
 
-* TODO IHP – A Haskell web framework
+* TODO IHP – A Haskell web framework                                :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-11-24 Tue 03:50]
 :END:
@@ -1300,14 +1300,14 @@ How Rainbow Tables Work - http://kestas.kuliukas.com/RainbowTables/
 
 Pandoc for TeXnicians [pdf] - https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf
 
-* TODO Reasoning about Colors
+* TODO Reasoning about Colors                                        :COLORS:
 :PROPERTIES:
 :CREATED:  [2020-11-27 Fri 06:41]
 :END:
 
 Reasoning about Colors - http://notes.neeasade.net/color-spaces.html
 
-* TODO Risp (In (Rust) (Lisp))
+* TODO Risp (In (Rust) (Lisp))                                    :RUST:LISP:
 :PROPERTIES:
 :CREATED:  [2020-11-27 Fri 06:49]
 :END:
@@ -1328,56 +1328,56 @@ K6: Like unit testing, for performance - https://github.com/loadimpact/k6
 
 Reveal.js: HTML presentation framework - https://revealjs.com/
 
-* TODO Poisson distribution is a special case of the Binomial
+* TODO Poisson distribution is a special case of the Binomial :DISTRIBUTION:MATH:STATISTICS:
 :PROPERTIES:
 :CREATED:  [2020-11-29 Sun 20:24]
 :END:
 
 Poisson distribution is a special case of the Binomial - https://www.andrewchamberlain.com/field-notes/simple-math-of-poisson-and-binomial-distributions
 
-* TODO 2Q: The Postgres Caching Algorithm
+* TODO 2Q: The Postgres Caching Algorithm                        :POSTGRESQL:
 :PROPERTIES:
 :CREATED:  [2020-11-29 Sun 20:25]
 :END:
 
 2Q: The Postgres Caching Algorithm - https://arpitbhayani.me/blogs/2q-cache?ref=hn
 
-* TODO OCaml User Survey 2020 Results
+* TODO OCaml User Survey 2020 Results                                 :OCAML:
 :PROPERTIES:
 :CREATED:  [2020-11-30 Mon 06:51]
 :END:
 
 OCaml User Survey 2020 Results - https://www.dropbox.com/s/omba1d8vhljnrcn/OCaml-user-survey-2020.pdf?dl=0
 
-* TODO Error Handling Is Hard
+* TODO Error Handling Is Hard              :ERROR_HANDLING:HASKELL:RUST:JAVA:
 :PROPERTIES:
 :CREATED:  [2020-12-01 Tue 06:40]
 :END:
 
 Error Handling Is Hard - https://www.fpcomplete.com/blog/error-handling-is-hard/
 
-* TODO Do we really need a third Apache project for columnar data? (2017)
+* TODO Do we really need a third Apache project for columnar data? (2017) :APACHE_ARROW:PARQUET:ORC:
 :PROPERTIES:
 :CREATED:  [2020-12-02 Wed 06:40]
 :END:
 
 Do we really need a third Apache project for columnar data? (2017) - http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html
 
-* TODO HTTP/2 Push is dead
+* TODO HTTP/2 Push is dead                                             :HTTP:
 :PROPERTIES:
 :CREATED:  [2020-12-03 Thu 06:58]
 :END:
 
 HTTP/2 Push is dead - https://evertpot.com/http-2-push-is-dead/
 
-* TODO Kubernetes is deprecating Docker runtime support
+* TODO Kubernetes is deprecating Docker runtime support          :K8S:DOCKER:
 :PROPERTIES:
 :CREATED:  [2020-12-03 Thu 06:59]
 :END:
 
 Kubernetes is deprecating Docker runtime support - https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md
 
-* TODO Reparse – A comprehensive parser combinator for OCaml
+* TODO Reparse – A comprehensive parser combinator for OCaml :OCAML:PARSER_COMBINATOR:
 :PROPERTIES:
 :CREATED:  [2020-12-04 Fri 06:38]
 :END:
@@ -1426,35 +1426,28 @@ VisiData in 60 Seconds - https://jsvine.github.io/intro-to-visidata/the-big-pict
 
 Gaming Mathematics: Probability - https://www.888casino.com/blog/gaming-mathematics/gambling-probability
 
-* TODO Exotic Programming Ideas
-:PROPERTIES:
-:CREATED:  [2020-12-07 Mon 06:13]
-:END:
-
-Exotic Programming Ideas - https://www.stephendiehl.com/posts/exotic04.html
-
-* TODO Whirlwind Tour of Stack (Haskell Build Tool) for Beginners
+* TODO Whirlwind Tour of Stack (Haskell Build Tool) for Beginners   :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-12-07 Mon 06:13]
 :END:
 
 Whirlwind Tour of Stack (Haskell Build Tool) for Beginners - https://schooloffp.co/2020/12/05/whirlwind-tour-of-stack-for-beginners.html
 
-* TODO PKCE: What and Why
+* TODO PKCE: What and Why                                       :OAUTH2:PKCE:
 :PROPERTIES:
 :CREATED:  [2020-12-07 Mon 06:19]
 :END:
 
 PKCE: What and Why - https://dropbox.tech/developers/pkce--what-and-why-
 
-* TODO Project Loom and Structured Concurrency
+* TODO Project Loom and Structured Concurrency            :JAVA:PROJECT_LOOM:
 :PROPERTIES:
 :CREATED:  [2020-12-07 Mon 06:20]
 :END:
 
 Project Loom and Structured Concurrency - https://www.javaadvent.com/2020/12/project-loom-and-structured-concurrency.html
 
-* TODO No One Ever Got Fired for Choosing React
+* TODO No One Ever Got Fired for Choosing React                       :REACT:
 :PROPERTIES:
 :CREATED:  [2020-12-07 Mon 06:21]
 :END:
@@ -1467,7 +1460,6 @@ No One Ever Got Fired for Choosing React - https://jake.nyc/words/no-one-ever-go
 :END:
 
 Double fetches, scheduling algorithms, and onion rings - https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/
-
 * TODO Cameras and Lenses
 :PROPERTIES:
 :CREATED:  [2020-12-11 Fri 03:35]
@@ -1517,35 +1509,35 @@ How we built scalable spatial indexing in CockroachDB - https://www.cockroachlab
 
 ReScript 8.4 - https://rescript-lang.org/blog/bucklescript-release-8-4
 
-* TODO REST vs. GraphQL – A search for evidence on which is better
+* TODO REST vs. GraphQL – A search for evidence on which is better :REST:GRAPH_QL:
 :PROPERTIES:
 :CREATED:  [2020-12-16 Wed 05:56]
 :END:
 
 REST vs. GraphQL – A search for evidence on which is better - https://42papers.com/p/rest-vs-graphql-a-controlled-experiment
 
-* TODO Cloudquery: Easily ask questions about your cloud infrastructure
+* TODO Cloudquery: Easily ask questions about your cloud infrastructure :CLOUD:DEVOPS:
 :PROPERTIES:
 :CREATED:  [2020-12-16 Wed 05:57]
 :END:
 
 Cloudquery: Easily ask questions about your cloud infrastructure - https://github.com/cloudquery/cloudquery
 
-* TODO Minimal safe Bash script template
+* TODO Minimal safe Bash script template                               :BASH:
 :PROPERTIES:
 :CREATED:  [2020-12-16 Wed 05:59]
 :END:
 
 Minimal safe Bash script template - https://betterdev.blog/minimal-safe-bash-script-template/
 
-* TODO Boost Up Productivity in Bash - Tips and Tricks | Linux Journal
+* TODO Boost Up Productivity in Bash - Tips and Tricks | Linux Journal :BASH:
 :PROPERTIES:
 :CREATED:  [2020-12-17 Thu 18:25]
 :END:
 
 https://www.linuxjournal.com/content/boost-productivity-bash-tips-and-tricks
 
-* TODO GCP IAM roles explained. When to use basic vs predefined vs… | by Adrien Walkowiak | Google Cloud - Community | Dec, 2020 | Medium
+* TODO GCP IAM roles explained. When to use basic vs predefined vs… :IAM:GCP:
 :PROPERTIES:
 :CREATED:  [2020-12-18 Fri 06:38]
 :END:
@@ -1657,7 +1649,7 @@ NIST Digital Library of Mathematical Functions - https://dlmf.nist.gov/
 
 A Complete Guide to LLVM for Programming Language Creators - https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
 
-* TODO Figma: The product design team’s process
+* TODO Figma: The product design team’s process                      :DESIGN:
 :PROPERTIES:
 :CREATED:  [2020-12-26 Sat 07:43]
 :END:
@@ -1671,7 +1663,7 @@ Figma: The product design team’s process - https://www.figma.com/blog/inside-f
 
 The biggest and weirdest commits in Linux kernel Git history (2017) - https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history
 
-* TODO API pagination design :PAGINATION:
+* TODO API pagination design                                 :PAGINATION:API:
 :PROPERTIES:
 :CREATED:  [2020-12-27 Sun 08:42]
 :END:
@@ -1685,7 +1677,7 @@ API pagination design - https://solovyov.net/blog/2020/api-pagination-design/
 
 Run More Stuff in Docker - https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/
 
-* TODO Partial order and non-Boolean logic
+* TODO Partial order and non-Boolean logic                             :MATH:
 :PROPERTIES:
 :CREATED:  [2020-12-27 Sun 08:47]
 :END:
@@ -1763,7 +1755,7 @@ Ex-product manager at Google about why Google Cloud Platform lost to AWS - https
 
 Linux Hardening Guide - https://madaidans-insecurities.github.io/guides/linux-hardening.html
 
-* TODO The Big Little Guide to Message Queues :MESSAGING:
+* TODO The Big Little Guide to Message Queues                 :MESSAGING:API:
 :PROPERTIES:
 :CREATED:  [2020-12-31 Thu 17:36]
 :END:
@@ -1798,7 +1790,7 @@ Dockerfile Best Practices - https://github.com/hexops/dockerfile
 
 Ditherpunk: The article I wish I had about monochrome image dithering - https://surma.dev/things/ditherpunk/
 
-* TODO Cloud Development Kit (CDK) by AWS will completely change software
+* TODO Cloud Development Kit (CDK) by AWS will completely change software :AWS:
 :PROPERTIES:
 :CREATED:  [2021-01-05 Tue 06:40]
 :END:
@@ -1812,7 +1804,7 @@ Cloud Development Kit (CDK) by AWS will completely change software - https://new
 
 The Evolution of a Haskell Programmer (2001) - http://willamette.edu/~fruehr/haskell/evolution.html
 
-* TODO Show HN: I made a new GraphQL IDE – grepql, generates every queries from schema
+* TODO Show HN: I made a new GraphQL IDE – grepql, generates every queries from schema :GRAPH_QL:
 :PROPERTIES:
 :CREATED:  [2021-01-05 Tue 06:46]
 :END:
@@ -1833,7 +1825,7 @@ DNS Key Value Storage - https://dnskv.com/
 
 https://www.murilopereira.com/how-to-open-a-file-in-emacs/
 
-* TODO Graphqurl: Curl for GraphQL, with Autocomplete and Subscriptions
+* TODO Graphqurl: Curl for GraphQL, with Autocomplete and Subscriptions :GRAPH_QL:
 :PROPERTIES:
 :CREATED:  [2021-01-05 Tue 22:18]
 :END:
@@ -1931,7 +1923,7 @@ That XOR Trick (2020) - https://florian.github.io/xor-trick
 
 Show HN: BFS, Dijkstra and A* interactive demo made in React - https://github.com/npretto/pathfinding
 
-* Why you should care about the Nate Silver vs. Nassim Taleb Twitter war
+* Why you should care about the Nate Silver vs. Nassim Taleb Twitter war :NASSIM_TALEB:NATE_SILVER:
 
 https://link.medium.com/C3gLu75ladb
 :PROPERTIES:
@@ -1940,28 +1932,28 @@ https://link.medium.com/C3gLu75ladb
 
 Taleb vs Silver
 
-* Toolz: A functional standard library for Python
+* Toolz: A functional standard library for Python                        :FP:
 :PROPERTIES:
 :CREATED:  [2021-01-22 Fri 05:44]
 :END:
 
 Toolz: A functional standard library for Python - https://github.com/pytoolz/toolz
 
-* Basic Scripting with Awk and Gnuplot
+* Basic Scripting with Awk and Gnuplot                                  :AWK:
 :PROPERTIES:
 :CREATED:  [2021-01-22 Fri 06:31]
 :END:
 
 Basic Scripting with Awk and Gnuplot - https://cyberchris.xyz/posts/awk-and-gnuplot/
 
-* Capturing call stack with Haskell exceptions
+* Capturing call stack with Haskell exceptions       :ERROR_HANDLING:HASKELL:
 :PROPERTIES:
 :CREATED:  [2021-01-23 Sat 07:08]
 :END:
 
 Capturing call stack with Haskell exceptions - https://maksbotan.github.io/posts/2021-01-20-callstacks.html
 
-* Why OCaml
+* Why OCaml                                                           :OCAML:
 :PROPERTIES:
 :CREATED:  [2021-01-24 Sun 04:39]
 :END:
@@ -2227,7 +2219,7 @@ https://youtu.be/G0U63muHU4k
 
 https://youtu.be/IF4UhElRUFg
 
-* Linguistics, Style and Writing in the 21st Century - with Steven Pinker :LINGUISTICS:
+* Linguistics, Style and Writing in the 21st Century - with Steven Pinker :LINGUISTICS:STEVEN_PINKER:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 18:54]
 :lg-subject: Linguistics, Style and Writing in the 21st Century - with Steven Pinker
@@ -2235,7 +2227,7 @@ https://youtu.be/IF4UhElRUFg
 
 https://youtu.be/OV5J6BfToSw
 
-* Eugenia Cheng: "The Art of Logic: How to Make Sense in a World that Doesn't" | Talks at Google
+* Eugenia Cheng: "The Art of Logic: How to Make Sense in a World that Doesn't" | Talks at Google :EUGENIA_CHENG:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 18:56]
 :lg-subject: Eugenia Cheng: "The Art of Logic: How to Make Sense in a World that Doesn't" | Talks at Google
@@ -2243,7 +2235,7 @@ https://youtu.be/OV5J6BfToSw
 
 https://youtu.be/YHZKX0H6cUE
 
-* Understanding Human Nature with Steven Pinker - Conversations with History
+* Understanding Human Nature with Steven Pinker - Conversations with History :STEVEN_PINKER:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 19:00]
 :lg-subject: Understanding Human Nature with Steven Pinker - Conversations with History
@@ -2251,7 +2243,7 @@ https://youtu.be/YHZKX0H6cUE
 
 https://youtu.be/KJ9Ad6s8g7I
 
-* Eugenia Cheng: To Infinity - and Beyond
+* Eugenia Cheng: To Infinity - and Beyond                     :EUGENIA_CHENG:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 19:01]
 :lg-subject: Eugenia Cheng: To Infinity - and Beyond
@@ -2267,7 +2259,7 @@ https://youtu.be/cCn45UAjIzI
 
 https://youtu.be/TdbrWqd4OAA
 
-* Intro to Regex: Bend Text to Your Whim with Henry Marshall
+* Intro to Regex: Bend Text to Your Whim with Henry Marshall         :REGEXP:
 :PROPERTIES:
 :CREATED:  [2019-03-12 Tue 05:35]
 :lg-subject: Intro to Regex: Bend Text to Your Whim with Henry Marshall
@@ -2275,7 +2267,7 @@ https://youtu.be/TdbrWqd4OAA
 
 https://youtu.be/DDpNyYWehM8
 
-* App modernization and the need for API management
+* App modernization and the need for API management                     :API:
 :PROPERTIES:
 :CREATED:  [2019-03-12 Tue 05:35]
 :lg-subject: App modernization and the need for API management
@@ -2291,7 +2283,7 @@ https://youtu.be/25JjzE7t17o
 
 https://youtu.be/nQHmiCFqrRE
 
-* Git & version control in the enterprise - Git Merge 2019
+* Git & version control in the enterprise - Git Merge 2019              :GIT:
 :PROPERTIES:
 :CREATED:  [2019-03-12 Tue 16:57]
 :lg-subject: Git & version control in the enterprise - Git Merge 2019
@@ -2307,7 +2299,7 @@ https://youtu.be/SzEBzQrwxFk
 
 https://youtu.be/NTWVsPvYPQE
 
-* Standard Model Representaion  by Cohl Furey
+* Standard Model Representaion  by Cohl Furey                       :PHYSICS:
 :PROPERTIES:
 :CREATED:  [2019-03-12 Tue 16:58]
 :lg-subject: Standard Model Representaion  by Cohl Furey
@@ -2361,7 +2353,7 @@ https://youtu.be/um-A4qQut7g
 
 - https://youtu.be/mS0AJLqmnvQ
 
-* Day Two Kubernetes: Tools for Operability
+* Day Two Kubernetes: Tools for Operability                             :K8S:
 :PROPERTIES:
 :CREATED:  [2019-03-21 Thu 05:33]
 :lg-subject: Day Two Kubernetes: Tools for Operability
@@ -2513,7 +2505,7 @@ https://youtu.be/d1XzfHKOG1k
 
 https://youtu.be/9hohuqj-yI8
 
-* Org-mode, literate programming in Emacs :EMACS:
+* Org-mode, literate programming in Emacs                    :EMACS:ORG_MODE:
 :PROPERTIES:
 :CREATED:  [2019-03-24 Sun 13:35]
 :lg-subject: Org-mode, literate programming in Emacs
@@ -2563,14 +2555,14 @@ https://youtu.be/0ruRoW5P9wg
 
 https://youtu.be/KLBFR_rUreE
 
-* [VDZ19] Kubernetesize your Java application by Arun Gupta
+* [VDZ19] Kubernetesize your Java application by Arun Gupta             :K8S:
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:05]
 :END:
 
 https://youtu.be/CieoGJCXEE8
 
-* [VDZ19] 10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder
+* [VDZ19] 10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder :API:
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:05]
 :END:
@@ -2598,7 +2590,7 @@ https://youtu.be/ZKchdjFSgbM
 
 https://youtu.be/QA1RvnXKKdY
 
-* Haskell - NUS Hackers
+* Haskell - NUS Hackers                                             :HASKELL:
 :PROPERTIES:
 :CREATED:  [2019-03-30 Sat 08:22]
 :END:
@@ -2647,7 +2639,7 @@ Show HN: CTOnet, a private community for CTOs and engineering leaders - https://
 
 Package httpretty prints the HTTP requests you make with Go on your terminal - https://github.com/henvic/httpretty
 
-* Watch "Complex Adaptive Systems - Dave Snowden - DDD Europe 2018
+* Watch "Complex Adaptive Systems - Dave Snowden - DDD Europe 2018      :DDD:
 :PROPERTIES:
 :CREATED:  [2020-02-04 Tue 16:49]
 :END:
@@ -2661,7 +2653,7 @@ https://youtu.be/l4-vpegxYPg
 
 Over 550 videos of 870 talks from FOSDEM 2020 have now been uploaded - https://fosdem.org/2020/schedule/events/
 
-* Fun with Decorators, Protobuf and Apache Beam
+* Fun with Decorators, Protobuf and Apache Beam        :PROTOBUF:APACHE_BEAM:
 :PROPERTIES:
 :CREATED:  [2020-02-07 Fri 02:57]
 :END:
@@ -2675,14 +2667,31 @@ Fun with Decorators, Protobuf and Apache Beam - https://building.enlyze.com/post
 
 A common mistake involving wildcards and the find command - https://blog.robertelder.org/find-command-wildcard-globbing/
 
-* Moore's Law, Microprocessors, Abstractions, First Principles [video]
+* Moore's Law, Microprocessors, Abstractions, First Principles [video] :PODCAST:YOUTUBE:LEX_FRIDMAN:
 :PROPERTIES:
 :CREATED:  [2020-02-09 Sun 07:08]
 :END:
+** Content
+0:00 - Introduction
+2:12 - Difference between a computer and a human brain
+3:43 - Computer abstraction layers and parallelism
+17:53 - If you run a program multiple times, do you always get the same answer?
+20:43 - Building computers and teams of people
+22:41 - Start from scratch every 5 years
+30:05 - Moore's law is not dead
+55:47 - Is superintelligence the next layer of abstraction?
+1:00:02 - Is the universe a computer?
+1:03:00 - Ray Kurzweil and exponential improvement in technology
+1:04:33 - Elon Musk and Tesla Autopilot
+1:20:51 - Lessons from working with Elon Musk
+1:28:33 - Existential threats from AI
+1:32:38 - Happiness and the meaning of life
 
-Moore's Law, Microprocessors, Abstractions, First Principles [video] - https://www.youtube.com/watch?v=Nb2tebYAaOA
+Moore's Law, Microprocessors, Abstractions, First Principles [video] 
+- https://www.youtube.com/watch?v=Nb2tebYAaOA
+- https://youtu.be/Nb2tebYAaOA
 
-* Haskell in Production: Riskbook
+* Haskell in Production: Riskbook                                   :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-02-13 Thu 05:41]
 :END:
@@ -2710,14 +2719,14 @@ Classification of the Principal Programming Paradigms - https://www.info.ucl.ac.
 
 Gentzen's Rules for Natural Deduction - https://blog.plover.com/math/logic/lk.html
 
-* How to take smart notes with Org mode
+* How to take smart notes with Org mode                      :EMACS:ORG_MODE:
 :PROPERTIES:
 :CREATED:  [2020-02-16 Sun 03:43]
 :END:
 
 How to take smart notes with Org mode - https://blog.jethro.dev/posts/how_to_take_smart_notes_org/
 
-* How These Things Work – A book about CS from first principles (2016)
+* How These Things Work – A book about CS from first principles (2016)   :CT:
 :PROPERTIES:
 :CREATED:  [2020-02-17 Mon 19:16]
 :END:
@@ -2731,7 +2740,7 @@ How These Things Work – A book about CS from first principles (2016) - http://
 
 JWT is Awesome - https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/
 
-* The Bash Hackers Wiki
+* The Bash Hackers Wiki                                                :BASH:
 :PROPERTIES:
 :CREATED:  [2020-02-22 Sat 07:34]
 :END:
@@ -2773,7 +2782,7 @@ Implementing Raft: Part 2: Commands and Log Replication - https://eli.thegreenpl
 
 Capability Immaturity Model - https://en.wikipedia.org/wiki/Capability_Immaturity_Model
 
-* Postgres Explain Visualizer
+* Postgres Explain Visualizer                                    :POSTGRESQL:
 :PROPERTIES:
 :CREATED:  [2020-03-03 Tue 10:00]
 :END:
@@ -2794,7 +2803,7 @@ Introduction to D3 - https://observablehq.com/@mitvis/introduction-to-d3
 
 Landmark Computer Science Proof Cascades Through Physics and Math - https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
 
-* New Guides for Terraform Modules
+* New Guides for Terraform Modules                                :TERRAFORM:
 :PROPERTIES:
 :CREATED:  [2020-03-07 Sat 13:49]
 :END:
@@ -2808,7 +2817,7 @@ New Guides for Terraform Modules - https://www.hashicorp.com/blog/new-guides-ter
 
 https://lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/
 
-* Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls
+* Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls :CONSENSUS:
 :PROPERTIES:
 :CREATED:  [2020-03-08 Sun 22:23]
 :END:
@@ -2822,14 +2831,7 @@ Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls - ht
 
 How a 'growth mindset' can lead to success - https://www.bbc.com/worklife/article/20200306-the-surprising-truth-about-finding-your-passion-at-work
 
-* Understanding HTTPS and PKI for busy folks
-:PROPERTIES:
-:CREATED:  [2020-03-15 Sun 12:55]
-:END:
-
-Understanding HTTPS and PKI for busy folks - https://www.reddit.com/r/security/comments/fiqg7g/understanding_https_and_pki_for_busy_folks/
-
-* Kind - run local Kubernetes clusters using Docker
+* Kind - run local Kubernetes clusters using Docker              :K8S:DOCKER:
 :PROPERTIES:
 :CREATED:  [2020-03-16 Mon 22:13]
 :END:
@@ -2843,7 +2845,7 @@ Kind - run local Kubernetes clusters using Docker - https://kind.sigs.k8s.io/
 
 OpenRefine – free, open source, powerful tool for working with messy data - https://openrefine.org
 
-* AsyncAPI – OpenAPI-like specification for event-driven architectures
+* AsyncAPI – OpenAPI-like specification for event-driven architectures :API:ASYNC:
 :PROPERTIES:
 :CREATED:  [2020-03-30 Mon 18:43]
 :END:
@@ -2872,7 +2874,7 @@ Cognitive Biases in Software Development -
 
 Eclipse Theia 1.0 – Open-Source Alternative to Visual Studio Code - https://www.eclipse.org/org/press-release/20200331-theia.php
 
-* An Overview of Bayesian Inference (2019)
+* An Overview of Bayesian Inference (2019)                       :STATISTICS:
 :PROPERTIES:
 :CREATED:  [2020-04-02 Thu 02:04]
 :END:
@@ -2886,7 +2888,7 @@ An Overview of Bayesian Inference (2019) - https://jaydaigle.net/blog/overview-o
 
 A crash course in compilers (2018) - https://increment.com/programming-languages/crash-course-in-compilers/
 
-* Org-roam: Rudimentary Roam replica with Org-mode
+* Org-roam: Rudimentary Roam replica with Org-mode           :ORG_MODE:EMACS:
 :PROPERTIES:
 :CREATED:  [2020-04-06 Mon 06:21]
 :END:
@@ -2900,7 +2902,7 @@ Org-roam: Rudimentary Roam replica with Org-mode - https://github.com/jethrokuan
 
 Convert Markdown to a Mind Map - https://markmap.js.org/
 
-* UTF-8 Everywhere
+* UTF-8 Everywhere                                                  :UNICODE:
 :PROPERTIES:
 :CREATED:  [2020-04-14 Tue 22:33]
 :END:
@@ -2935,14 +2937,14 @@ Beginners guide to gateways and proxies - https://www.learncloudnative.com/blog/
 
 Show HN: Xlskubectl – control your Kubernetes cluster with Google sheets - https://github.com/learnk8s/xlskubectl
 
-* Paxos vs. Raft: Have we reached consensus on distributed consensus?
+* Paxos vs. Raft: Have we reached consensus on distributed consensus? :CONSENSUS:
 :PROPERTIES:
 :CREATED:  [2020-04-28 Tue 02:49]
 :END:
 
 Paxos vs. Raft: Have we reached consensus on distributed consensus? - https://arxiv.org/abs/2004.05074
 
-* Deep dive into runc and OCI specifications
+* Deep dive into runc and OCI specifications                     :CONTAINERS:
 :PROPERTIES:
 :CREATED:  [2020-04-28 Tue 17:13]
 :END:
@@ -2956,21 +2958,21 @@ Deep dive into runc and OCI specifications - https://mkdev.me/en/posts/the-tool-
 
 Manager's Playbook: Heuristics for effective management - https://github.com/ksindi/managers-playbook
 
-* Using PostgreSQL for JSON Storage
+* Using PostgreSQL for JSON Storage                              :POSTGRESQL:
 :PROPERTIES:
 :CREATED:  [2020-05-01 Fri 06:57]
 :END:
 
 Using PostgreSQL for JSON Storage - https://info.crunchydata.com/blog/using-postgresql-for-json-storage
 
-* OCaml is Pretty Great (2019)
+* OCaml is Pretty Great (2019)                                        :OCAML:
 :PROPERTIES:
 :CREATED:  [2020-05-01 Fri 11:42]
 :END:
 
 OCaml is Pretty Great (2019) - https://blog.chewxy.com/2019/02/20/go-is-average/
 
-* Domesticating Kubernetes
+* Domesticating Kubernetes                                              :K8S:
 :PROPERTIES:
 :CREATED:  [2020-05-01 Fri 11:49]
 :END:
@@ -2984,14 +2986,14 @@ Domesticating Kubernetes - https://blog.quickbird.uk/domesticating-kubernetes-d4
 
 SSH hacks – a little sanity for remote workers - https://smallstep.com/blog/ssh-tricks-and-tips/
 
-* CAP Twelve Years Later: How the "Rules" Have Changed
+* CAP Twelve Years Later: How the "Rules" Have Changed      :CAP:CONSISTENCY:
 :PROPERTIES:
 :CREATED:  [2020-05-02 Sat 09:32]
 :END:
 
 https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 
-* Awk in 20 Minutes
+* Awk in 20 Minutes                                                     :AWK:
 :PROPERTIES:
 :CREATED:  [2020-05-02 Sat 10:53]
 :END:
@@ -3019,14 +3021,14 @@ A Shallow Introduction to the K Programming Language (2002) - https://web.archiv
 
 https://quip.com/2gwZArKuWk7W
 
-* Linux home directory management is about to undergo major change - TechRepublic
+* Linux home directory management is about to undergo major change - TechRepublic :LINUX:
 :PROPERTIES:
 :CREATED:  [2020-05-03 Sun 20:40]
 :END:
 
 https://www.techrepublic.com/article/linux-home-directory-management-is-about-to-undergo-major-change/
 
-* Systemd, ten years later: a historical and technical retrospective
+* Systemd, ten years later: a historical and technical retrospective :SYSTEMD:LINUX:
 :PROPERTIES:
 :CREATED:  [2020-05-04 Mon 06:02]
 :END:
@@ -3061,7 +3063,7 @@ https://sfree.life/sound-theory-toyota-vangelis-bastl-instruments-free/
 
 http://matt.might.net/articles/best-programming-languages/
 
-* draft-ietf-oauth-security-topics-15 - OAuth 2.0 Security Best Current Practice
+* draft-ietf-oauth-security-topics-15 - OAuth 2.0 Security Best Current Practice :OAUTH2:
 :PROPERTIES:
 :CREATED:  [2020-05-06 Wed 06:19]
 :END:
@@ -3075,7 +3077,7 @@ https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15
 
 Evolution of Emacs Lisp [pdf] - http://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf
 
-* Understanding Raft Consensus
+* Understanding Raft Consensus                               :CONSENSUS:RAFT:
 :PROPERTIES:
 :CREATED:  [2020-05-10 Sun 12:28]
 :END:
@@ -3096,14 +3098,14 @@ Meshroom – Open-source photogrammetry software - https://alicevision.org/#mesh
 
 In Further Praise of Dependent Types - https://golem.ph.utexas.edu/category/2020/05/in_further_praise_of_dependent.html
 
-* The Black Swan: Identify stocks that will see a boom because of virus: Nassim Nicholas Taleb - The Economic Times
+* The Black Swan: Identify stocks that will see a boom because of virus: Nassim Nicholas Taleb - The Economic Times :NASSIM_TALEB:
 :PROPERTIES:
 :CREATED:  [2020-05-16 Sat 07:25]
 :END:
 
 https://m.economictimes.com/markets/expert-view/identify-robust-stocks-that-will-boom-due-to-virus-nassim-nicholas-taleb/articleshow/75756955.cms
 
-* What every software engineer should know about Apache Kafka
+* What every software engineer should know about Apache Kafka         :KAFKA:
 :PROPERTIES:
 :CREATED:  [2020-05-17 Sun 15:14]
 :END:
@@ -3117,21 +3119,21 @@ What every software engineer should know about Apache Kafka - https://www.michae
 
 http://www.righto.com/2020/05/extracting-rom-constants-from-8087-math.html?m=1
 
-* Simple Haskell Is Best Haskell
+* Simple Haskell Is Best Haskell                                    :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-05-23 Sat 16:17]
 :END:
 
 Simple Haskell Is Best Haskell - https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b
 
-* Jepsen Disputes MongoDB's Data Consistency Claims
+* Jepsen Disputes MongoDB's Data Consistency Claims         :JEPSEN:MONGO_DB:
 :PROPERTIES:
 :CREATED:  [2020-05-24 Sun 12:19]
 :END:
 
 Jepsen Disputes MongoDB's Data Consistency Claims - https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/
 
-* Loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub
+* Loginsrv: JWT login microservice with back ends like OAuth2, Google, GitHub :OAUTH2:
 :PROPERTIES:
 :CREATED:  [2020-05-24 Sun 12:21]
 :END:
@@ -3159,7 +3161,7 @@ Oracle vs. PostgreSQL – A Comment - https://www.postgresql.org/message-id/flat
 
 Cache Oblivious Algorithms - https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/
 
-* Life is 90% of my use cases for org-mode
+* Life is 90% of my use cases for org-mode                         :ORG_MODE:
 :PROPERTIES:
 :CREATED:  [2020-06-29 Mon 07:08]
 :END:
@@ -3208,7 +3210,7 @@ A Deep Introduction to JIT Compilers: JITs are not very Just-in-time - https://c
 
 Help Message for Shell Scripts - https://samizdat.dev/help-message-for-shell-scripts/
 
-* REST and GraphQL: An Architectural Comparison
+* REST and GraphQL: An Architectural Comparison               :REST:GRAPH_QL:
 :PROPERTIES:
 :CREATED:  [2020-07-08 Wed 06:46]
 :END:
@@ -3222,14 +3224,14 @@ REST and GraphQL: An Architectural Comparison - https://hasura.io/blog/rest-view
 
 A Typology of Dumplings (2019) - https://borstell.github.io/dumplings.html
 
-* CRDTs: The Hard Parts
+* CRDTs: The Hard Parts                                                :CRDT:
 :PROPERTIES:
 :CREATED:  [2020-07-11 Sat 17:01]
 :END:
 
 CRDTs: The Hard Parts - https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html
 
-* Everything you need to know about OAuth 2.0
+* Everything you need to know about OAuth 2.0                        :OAUTH2:
 :PROPERTIES:
 :CREATED:  [2020-07-16 Thu 05:32]
 :END:
@@ -3271,7 +3273,7 @@ The Eastland disaster killed more passengers than the Titanic and the Lusitania 
 
 Indian IT consultancies struggle against technological obsolescence - https://www.economist.com/business/2020/07/23/indian-it-consultancies-struggle-against-technological-obsolescence
 
-* Bartosz Milewski’s Basics of Haskell – Code and exercises
+* Bartosz Milewski’s Basics of Haskell – Code and exercises         :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-07-26 Sun 18:18]
 :END:
@@ -3292,7 +3294,7 @@ Colorize Your CLI - https://danyspin97.org/blog/colorize-your-cli/
 
 WebGL Fluid Simulation - https://paveldogreat.github.io/WebGL-Fluid-Simulation/?play
 
-* The Regular Expression Visualizer, Simulator and Cross-Compiler Tool
+* The Regular Expression Visualizer, Simulator and Cross-Compiler Tool :REGEXP:
 :PROPERTIES:
 :CREATED:  [2020-07-28 Tue 16:03]
 :END:
@@ -3327,14 +3329,14 @@ Monitoring demystified: A guide for logging, tracing, metrics - https://techbeac
 
 https://lawsofux.com/
 
-* OCaml for the Skeptical: OCaml in a Nutshell (2006)
+* OCaml for the Skeptical: OCaml in a Nutshell (2006)                 :OCAML:
 :PROPERTIES:
 :CREATED:  [2020-08-02 Sun 22:26]
 :END:
 
 OCaml for the Skeptical: OCaml in a Nutshell (2006) - https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html
 
-* A philosophical difference between Haskell and Lisp
+* A philosophical difference between Haskell and Lisp          :HASKELL:LISP:
 :PROPERTIES:
 :CREATED:  [2020-08-03 Mon 15:17]
 :END:
@@ -3362,14 +3364,14 @@ System UIcons – icons designed for products, no attribution - https://systemui
 
 OpenSSF: Open Source Security Foundation - https://github.com/ossf
 
-* Unicode In Five Minutes ⌚
+* Unicode In Five Minutes ⌚                                        :UNICODE:
 :PROPERTIES:
 :CREATED:  [2020-08-14 Fri 18:33]
 :END:
 
 https://richardjharris.github.io/unicode-in-five-minutes.html
 
-* DevOps, DataOps, and MLOps: the three waves of operationalization
+* DevOps, DataOps, and MLOps: the three waves of operationalization  :DEVOPS:
 :PROPERTIES:
 :CREATED:  [2020-08-26 Wed 06:42]
 :END:
@@ -3397,7 +3399,7 @@ Inventing Monads - https://stopa.io/post/247
 
 MIT 18.S191 Introduction to Computational Thinking - https://mitmath.github.io/18S191/Fall20/
 
-* Please stop calling databases CP or AP (2015)
+* Please stop calling databases CP or AP (2015)                         :CAP:
 :PROPERTIES:
 :CREATED:  [2020-09-07 Mon 06:28]
 :END:
@@ -3418,7 +3420,7 @@ The technical interview is an ego trip - https://blog.kowsheek.com/the-technical
 
 React and D3.js - https://wattenberger.com/blog/react-and-d3
 
-* Category Theory Illustrated
+* Category Theory Illustrated                               :CATEGORY_THEORY:
 :PROPERTIES:
 :CREATED:  [2021-04-01 Thu 19:58]
 :END:
@@ -3446,7 +3448,7 @@ TLA+ Graph Explorer - https://github.com/afonsonf/tlaplus-graph-explorer
 
 The Grand Unified Theory of Documentation - https://diataxis.fr/
 
-* Category theory is a universal modeling language
+* Category theory is a universal modeling language          :CATEGORY_THEORY:
 :PROPERTIES:
 :CREATED:  [2021-04-30 Fri 07:03]
 :END:
@@ -3506,7 +3508,7 @@ Anatomy of a Linux DNS Lookup - https://zwischenzugs.com/2018/06/08/anatomy-of-a
 
 Surprising Shared Word Etymologies - https://www.danielde.dev/blog/surprising-shared-word-etymologies/
 
-* The Fixed Point: Laziness, Recursion and Fixed Points in Haskell
+* The Fixed Point: Laziness, Recursion and Fixed Points in Haskell  :HASKELL:
 :PROPERTIES:
 :CREATED:  [2021-06-13 Sun 02:03]
 :END:
@@ -3520,35 +3522,28 @@ The Fixed Point: Laziness, Recursion and Fixed Points in Haskell - https://rebec
 
 Execute Docker Containers as QEMU MicroVMs - https://mergeboard.com/blog/2-qemu-microvm-docker/
 
-* My EC2 Wishlist
+* My EC2 Wishlist                                                       :AWS:
 :PROPERTIES:
 :CREATED:  [2021-06-17 Thu 00:03]
 :END:
 
 My EC2 Wishlist - http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html
 
-* Execute Docker Containers as QEMU MicroVMs
-:PROPERTIES:
-:CREATED:  [2021-06-17 Thu 06:46]
-:END:
-
-Execute Docker Containers as QEMU MicroVMs - https://mergeboard.com/blog/2-qemu-microvm-docker/
-
-* Hasura GraphQL Engine and SQL Server
+* Hasura GraphQL Engine and SQL Server                             :GRAPH_QL:
 :PROPERTIES:
 :CREATED:  [2021-06-18 Fri 17:04]
 :END:
 
 Hasura GraphQL Engine and SQL Server - https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md
 
-* Taleb: Bitcoin, Currencies, and Bubbles
+* Taleb: Bitcoin, Currencies, and Bubbles :NASSIM_TALEB:
 :PROPERTIES:
 :CREATED:  [2021-06-21 Mon 06:37]
 :END:
 
 Taleb: Bitcoin, Currencies, and Bubbles - https://www.academia.edu/49313911/Bitcoin_Currencies_and_Bubbles
 
-* http://www.jerf.org/iri/categories/Programming/
+* http://www.jerf.org/iri/categories/Programming/              
 :PROPERTIES:
 :CREATED:  [2021-06-26 Sat 12:33]
 :END:
@@ -3565,7 +3560,7 @@ Functors and Monads for People Who Have Read Too Many “Tutorials” - http://w
 :CREATED:  [2021-07-04 Sun 08:52]
 :END:
 
-* Paxos vs. Raft: Have we reached consensus on distributed consensus?
+* Paxos vs. Raft: Have we reached consensus on distributed consensus? :CONSENSUS:PAXOS:RAFT:
 :PROPERTIES:
 :CREATED:  [2021-07-16 Fri 23:48]
 :END:
@@ -3577,7 +3572,7 @@ Paxos vs. Raft: Have we reached consensus on distributed consensus? - http://cha
 :CREATED:  [2021-07-25 Sun 09:53]
 :END:
 
-* Challenges With Implementing DDD - DZone Web Dev
+* Challenges With Implementing DDD - DZone Web Dev                      :DDD:
 :PROPERTIES:
 :CREATED:  [2021-08-12 Thu 07:48]
 :END:
@@ -3636,35 +3631,35 @@ A guide to fun mathematics YouTube channels - https://samenright.com/2021/08/31/
 
 The Complete GraphQL Security Guide - https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 
-* Picturing Git: Conceptions and Misconceptions
+* Picturing Git: Conceptions and Misconceptions                         :GIT:
 :PROPERTIES:
 :CREATED:  [2021-09-03 Fri 06:26]
 :END:
 
 Picturing Git: Conceptions and Misconceptions - https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/
 
-* Podman: A tool for managing OCI containers and pods
+* Podman: A tool for managing OCI containers and pods                :PODMAN:
 :PROPERTIES:
 :CREATED:  [2021-09-03 Fri 06:27]
 :END:
 
 Podman: A tool for managing OCI containers and pods - https://github.com/containers/podman
 
-* Run GUI applications and desktops in Docker
+* Run GUI applications and desktops in Docker                        :DOCKER:
 :PROPERTIES:
 :CREATED:  [2021-09-05 Sun 07:45]
 :END:
 
 Run GUI applications and desktops in Docker - https://github.com/mviereck/x11docker
 
-* Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines
+* Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines :PODMAN:
 :PROPERTIES:
 :CREATED:  [2021-09-06 Mon 05:40]
 :END:
 
 Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines - https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb
 
-* An Introduction to Type Level Programming in Haskell
+* An Introduction to Type Level Programming in Haskell              :HASKELL:
 :PROPERTIES:
 :CREATED:  [2021-09-10 Fri 06:29]
 :END:
@@ -3685,14 +3680,14 @@ Stop just using “Frontend” or “Backend” to describe the Engineering you 
 
 Monads are monoids in the category of endofunctors - https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors
 
-* Postgres: Boundless `Text` and Back Again
+* Postgres: Boundless `Text` and Back Again                      :POSTGRESQL:
 :PROPERTIES:
 :CREATED:  [2021-09-11 Sat 08:16]
 :END:
 
 Postgres: Boundless `Text` and Back Again - https://brandur.org/text
 
-* Mistakes I've Made in AWS
+* Mistakes I've Made in AWS                                             :AWS:
 :PROPERTIES:
 :CREATED:  [2021-09-12 Sun 10:00]
 :END:
@@ -3706,7 +3701,7 @@ Mistakes I've Made in AWS - https://laravel-news.com/aws-mistakes
 
 How PCI-Express works (2020) - https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/
 
-* Simple, opinionated and automated contract testing for your JSON API's
+* Simple, opinionated and automated contract testing for your JSON API's :API:
 :PROPERTIES:
 :CREATED:  [2021-09-12 Sun 10:04]
 :END:
@@ -3727,14 +3722,14 @@ Beam/Erlang/Elixir Concept Explanations - http://beam-wisdoms.clau.se/en/latest/
 
 Researchers Reconstruct Major Branches in the Tree of Language - https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language
 
-* New alternatives to HSL and HSV that better match color perception
+* New alternatives to HSL and HSV that better match color perception :COLORS:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:01]
 :END:
 
 New alternatives to HSL and HSV that better match color perception - https://bottosson.github.io/posts/colorpicker/
 
-* Ghost in the Shell – Learn Shell Scripting
+* Ghost in the Shell – Learn Shell Scripting                          :SHELL:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:31]
 :END:
@@ -3748,35 +3743,35 @@ Ghost in the Shell – Learn Shell Scripting - https://vermaden.wordpress.com/20
 
 Show HN: Produpedia.org – Lists of Everything - https://produpedia.org/
 
-* What Java Modules Are About
+* What Java Modules Are About                                          :JAVA:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:37]
 :END:
 
 What Java Modules Are About - https://inside.java/2021/09/10/what-are-modules-about/
 
-* The Magic Behind the Scenes of Docker Desktop
+* The Magic Behind the Scenes of Docker Desktop                      :DOCKER:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:37]
 :END:
 
 The Magic Behind the Scenes of Docker Desktop - https://www.docker.com/blog/the-magic-behind-the-scenes-of-docker-desktop/
 
-* OWASP Top 10 2021
+* OWASP Top 10 2021                                               :SEC:OWASP:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:45]
 :END:
 
 OWASP Top 10 2021 - https://owasp.org/Top10/
 
-* How to Replace Docker with Podman on a Mac
+* How to Replace Docker with Podman on a Mac                         :DOCKER:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:46]
 :END:
 
 How to Replace Docker with Podman on a Mac - https://www.redhat.com/sysadmin/replace-docker-podman-macos
 
-* How Docker broke in half
+* How Docker broke in half                                           :DOCKER:
 :PROPERTIES:
 :CREATED:  [2021-09-13 Mon 07:46]
 :END:
@@ -3811,7 +3806,7 @@ Java 17 / JDK 17: General Availability - https://mail.openjdk.java.net/pipermail
 
 Boeing's Fatal Flaw (full documentary) – FRONTLINE - https://www.youtube.com/watch?v=wXMO0bhPhCw
 
-* Don't build a general-purpose API to power your own front end
+* Don't build a general-purpose API to power your own front end         :API:
 :PROPERTIES:
 :CREATED:  [2021-09-15 Wed 06:44]
 :END:
@@ -3867,7 +3862,7 @@ Show HN: Qsh – Improved database querying from your terminal - https://github.
 
 Infinity Category Theory Offers a Bird’s-Eye View of Mathematics - https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/
 
-* The Tragedy of the Common Lisp: Why Large Languages Explode
+* The Tragedy of the Common Lisp: Why Large Languages Explode          :LISP:
 :PROPERTIES:
 :CREATED:  [2021-09-17 Fri 06:04]
 :END:
@@ -3909,14 +3904,14 @@ What Is the Data Lakehouse Pattern? - https://timeflow.systems/what-is-the-data-
 
 What We’ve Learned After 6 Years of IO Scheduling - https://www.p99conf.io/2021/09/15/what-weve-learned-after-6-years-of-io-scheduling/
 
-* Oracle Free Java License
+* Oracle Free Java License                                             :JAVA:
 :PROPERTIES:
 :CREATED:  [2021-09-17 Fri 06:23]
 :END:
 
 Oracle Free Java License - https://blogs.oracle.com/java/post/free-java-license
 
-* Best PostgreSQL GUIs in 2021
+* Best PostgreSQL GUIs in 2021                                   :POSTGRESQL:
 :PROPERTIES:
 :CREATED:  [2021-09-17 Fri 06:25]
 :END:
@@ -3937,7 +3932,7 @@ Optimizing Images on the Web - https://blog.cloudflare.com/optimizing-images/
 
 Latency Implications of Virtual Memory - https://rigtorp.se/virtual-memory/
 
-* Trick I learned from Nassim Taleb to get better at chess and chess variants fast
+* Trick I learned from Nassim Taleb to get better at chess and chess variants fast :NASSIM_TALEB:
 :PROPERTIES:
 :CREATED:  [2021-09-17 Fri 06:31]
 :END:
@@ -3972,8 +3967,9 @@ The Unicode Standard, Version 14.0 - http://blog.unicode.org/2021/09/announcing-
 
 Steven Pinker thinks your sense of imminent doom is wrong - https://www.nytimes.com/interactive/2021/09/06/magazine/steven-pinker-interview.html
 
-* https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html
+* Studying the relationship between exception handling practices and post-release defects
 :PROPERTIES:
 :CREATED:  [2021-09-18 Sat 07:58]
 :END:
+- https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html
 
