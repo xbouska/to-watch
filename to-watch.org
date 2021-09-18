@@ -22,7 +22,7 @@ https://youtu.be/UjMo1mgSMDo
 
 https://youtu.be/iC7xMymiIUY
 
-* The Whys and Hows of Database Streaming
+* The Whys and Hows of Database Streaming         :KAFKA:CDC:VIDEO:CASSANDRA:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 16:42]
 :lg-subject: The Whys and Hows of Database Streaming
@@ -220,7 +220,7 @@ https://youtu.be/E8-e-3fRHBw
 
 https://youtu.be/G0U63muHU4k
 
-* The End of the Universe - with Geraint Lewis
+* The End of the Universe - with Geraint Lewis            :ROYAL_INSTITUTION:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 18:54]
 :lg-subject: The End of the Universe - with Geraint Lewis
@@ -228,7 +228,7 @@ https://youtu.be/G0U63muHU4k
 
 https://youtu.be/IF4UhElRUFg
 
-* Linguistics, Style and Writing in the 21st Century - with Steven Pinker
+* Linguistics, Style and Writing in the 21st Century - with Steven Pinker :LINGUISTICS:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 18:54]
 :lg-subject: Linguistics, Style and Writing in the 21st Century - with Steven Pinker
@@ -346,17 +346,18 @@ https://youtu.be/um-A4qQut7g
 :lg-subject: SnowFROC 2019
 :END:
 
-https://youtu.be/_H7mp9lwFeo
+- https://youtu.be/_H7mp9lwFeo
 
-* https://www.google.cz/url?sa=t&source=web&rct=j&url=https://m.youtube.com/watch%3Fv%3DDdJNLeYldUs&ved=2ahUKEwjI36GO-o7hAhUFmrQKHQEKCXIQt9IBMAd6BAg0EBA&usg=AOvVaw13DtZuZewxIUt6zDy2zJzA
+* YOW! Singapore 2018 - Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOWSG
+ :PROPERTIES:
+:CREATED:  [2019-03-19 Tue 20:39]
+:END:
+- https://youtu.be/DdJNLeYldUs
+* YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOW 
 :PROPERTIES:
 :CREATED:  [2019-03-19 Tue 20:39]
 :END:
-
-* https://www.google.cz/url?sa=t&source=web&rct=j&url=https://m.youtube.com/watch%3Fv%3DmS0AJLqmnvQ&ved=2ahUKEwjI36GO-o7hAhUFmrQKHQEKCXIQt9IBMAZ6BAg0EAs&usg=AOvVaw3RlZE7BN5zZMCFUPTWZwmX
-:PROPERTIES:
-:CREATED:  [2019-03-19 Tue 20:39]
-:END:
+- https://youtu.be/mS0AJLqmnvQ
 
 * Day Two Kubernetes: Tools for Operability
 :PROPERTIES:
@@ -518,84 +519,84 @@ https://youtu.be/9hohuqj-yI8
 
 https://youtu.be/GK3fij-D1G8
 
-* Podívejte se na video „Practical Security for Web Applications - Chris Holland“ na YouTube
+* Practical Security for Web Applications - Chris Holland
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 10:40]
 :END:
 
 https://youtu.be/9OuqyVYsUuA
 
-* Podívejte se na video „Finding your service boundaries - a practical guide - Adam Ralph“ na YouTube
+* Finding your service boundaries - a practical guide - Adam Ralph
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:01]
 :END:
 
 https://youtu.be/jdliXz70NtM
 
-* Podívejte se na video „[VDZ19] Frontend Monoliths: Run if you can! by Jonas Bandi and Daniel Wiehl“ na YouTube
+* [VDZ19] Frontend Monoliths: Run if you can! by Jonas Bandi and Daniel Wiehl
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:03]
 :END:
 
 https://youtu.be/9SG2lI5_t1Q
 
-* Podívejte se na video „[VDZ19] Eta lang - Haskell On JVM by Jarek Ratajski“ na YouTube
+* [VDZ19] Eta lang - Haskell On JVM by Jarek Ratajski
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:04]
 :END:
 
 https://youtu.be/7U9rDg4Pfdc
 
-* Podívejte se na video „[VDZ19] Don't Walk Away From Complexity, Run by Venkat Subramaniam“ na YouTube
+* [VDZ19] Don't Walk Away From Complexity, Run by Venkat Subramaniam
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:04]
 :END:
 
 https://youtu.be/0ruRoW5P9wg
 
-* Podívejte se na video „[VDZ19] Service Mesh and Sidecars with Istio and Envoy by Rafael Benevides“ na YouTube
+* [VDZ19] Service Mesh and Sidecars with Istio and Envoy by Rafael Benevides
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:04]
 :END:
 
 https://youtu.be/KLBFR_rUreE
 
-* Podívejte se na video „[VDZ19] Kubernetesize your Java application by Arun Gupta“ na YouTube
+* [VDZ19] Kubernetesize your Java application by Arun Gupta
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:05]
 :END:
 
 https://youtu.be/CieoGJCXEE8
 
-* Podívejte se na video „[VDZ19] 10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder“ na YouTube
+* [VDZ19] 10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:05]
 :END:
 
 https://youtu.be/CYniPcoiI5g
 
-* Podívejte se na video „The Enterprise DevOps Challenge - Roy Osherove“ na YouTube
+* The Enterprise DevOps Challenge - Roy Osherove
 :PROPERTIES:
 :CREATED:  [2019-03-26 Tue 19:08]
 :END:
 
 https://youtu.be/bYKmq_sTsRw
 
-* Podívejte se na video „Using Service Meshes and Kubernetes to Solve Service-to-Service Communications... - Ben Hall“ na YouTube
+* Using Service Meshes and Kubernetes to Solve Service-to-Service Communications... - Ben Hall
 :PROPERTIES:
 :CREATED:  [2019-03-29 Fri 17:23]
 :END:
 
 https://youtu.be/ZKchdjFSgbM
 
-* Podívejte se na video „Versioning 1.0.1 - Jon Skeet“ na YouTube
+* Versioning 1.0.1 - Jon Skeet
 :PROPERTIES:
 :CREATED:  [2019-03-29 Fri 17:29]
 :END:
 
 https://youtu.be/QA1RvnXKKdY
 
-* Podívejte se na video „Haskell - NUS Hackers“ na YouTube
+* Haskell - NUS Hackers
 :PROPERTIES:
 :CREATED:  [2019-03-30 Sat 08:22]
 :END:
@@ -644,7 +645,7 @@ Show HN: CTOnet, a private community for CTOs and engineering leaders - https://
 
 Package httpretty prints the HTTP requests you make with Go on your terminal - https://github.com/henvic/httpretty
 
-* Watch "Complex Adaptive Systems - Dave Snowden - DDD Europe 2018" on YouTube
+* Watch "Complex Adaptive Systems - Dave Snowden - DDD Europe 2018
 :PROPERTIES:
 :CREATED:  [2020-02-04 Tue 16:49]
 :END:
@@ -735,7 +736,7 @@ JWT is Awesome - https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/
 
 The Bash Hackers Wiki - https://wiki.bash-hackers.org/
 
-* Watch "Ben Anderson - Investing in Testing with Reason" on YouTube
+* Watch "Ben Anderson - Investing in Testing with Reason
 :PROPERTIES:
 :CREATED:  [2020-02-22 Sat 08:29]
 :END:
@@ -859,7 +860,8 @@ WireGuard 1.0.0 - https://lore.kernel.org/wireguard/CAHmME9qOpDeraWo5rM31EWQW574
 :CREATED:  [2020-03-31 Tue 07:12]
 :END:
 
-Cognitive Biases in Software Development - http://smyachenkov.com/posts/cognitive-biases-software-development/
+Cognitive Biases in Software Development -
+- http://smyachenkov.com/posts/cognitive-biases-software-development/
 
 * Eclipse Theia 1.0 – Open-Source Alternative to Visual Studio Code
 :PROPERTIES:
@@ -1414,18 +1416,16 @@ The technical interview is an ego trip - https://blog.kowsheek.com/the-technical
 
 React and D3.js - https://wattenberger.com/blog/react-and-d3
 
-* Category Theory: Orders
+* Category Theory Illustrated
 :PROPERTIES:
 :CREATED:  [2021-04-01 Thu 19:58]
 :END:
-
-Category Theory: Orders - https://boris-marinov.github.io/category-theory-illustrated/04_order/
-
-* https://advancedweb.hu/
+Category Theory: Orders - https://boris-marinov.github.io/category-theory-illustrated
+* Advanced Web Blog
+https://advancedweb.hu/
 :PROPERTIES:
 :CREATED:  [2021-04-02 Fri 09:29]
 :END:
-
 * TLA+ Graph Explorer
 :PROPERTIES:
 :CREATED:  [2021-04-08 Thu 07:05]
