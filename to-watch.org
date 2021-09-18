@@ -1,3 +1,1998 @@
+
+
+* TODO NestedText, a nice alternative to JSON, YAML, TOML
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:47]
+:END:
+
+NestedText, a nice alternative to JSON, YAML, TOML - https://nestedtext.org
+
+* TODO Git Exercises
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:47]
+:END:
+
+Git Exercises - https://gitexercises.fracz.com/
+
+* TODO A Web of Trust for NPM
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:48]
+:END:
+
+A Web of Trust for NPM - https://www.btao.org/2020/10/02/npm-trust.html
+
+* TODO An opinionated history of programming languages
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:49]
+:END:
+
+An opinionated history of programming languages - https://artagnon.com/articles/pl
+
+* TODO Escaping strings in Bash using !:q
+:PROPERTIES:
+:hrom:     hn
+:CREATED:  [2020-10-04 Sun 05:49]
+:END:
+
+Escaping strings in Bash using !:q - https://til.simonwillison.net/til/til/bash_escaping-a-string.md
+
+* TODO GHunt – An OSINT tool to extract information about a Google account
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:53]
+:END:
+
+GHunt – An OSINT tool to extract information about a Google account - https://github.com/mxrch/GHunt
+
+* TODO Segment Tree
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 05:58]
+:END:
+
+Segment Tree - https://cp-algorithms.com/data_structures/segment_tree.html
+
+* TODO Bead Sort
+:PROPERTIES:
+:ftom:     hn
+:CREATED:  [2020-10-04 Sun 05:58]
+:END:
+
+Bead Sort - https://karthikkaranth.me/blog/bead-sort/
+
+* TODO Google pub/sub released an ordering feature
+:PROPERTIES:
+:fyom:     hn
+:CREATED:  [2020-10-04 Sun 05:58]
+:END:
+
+Google pub/sub released an ordering feature - https://cloud.google.com/pubsub/docs/ordering
+
+* TODO Big O, Little N
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 06:00]
+:END:
+
+Big O, Little N - https://adamzerner.bearblog.dev/big-o-little-n/
+
+* TODO Hetty: An HTTP toolkit for security research
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 06:00]
+:END:
+
+Hetty: An HTTP toolkit for security research - https://github.com/dstotijn/hetty
+
+* TODO Actionsflow – IFTTT/Zapier free alternative based on GitHub Actions
+:PROPERTIES:
+:from:     hn
+:CREATED:  [2020-10-04 Sun 06:02]
+:END:
+
+Actionsflow – IFTTT/Zapier free alternative based on GitHub Actions - https://github.com/actionsflow/actionsflow
+
+* TODO Simplified JavaScript Jargon
+:PROPERTIES:
+:CREATED:  [2020-10-04 Sun 06:16]
+:END:
+
+http://jargon.js.org/
+
+* TODO Lambda Calculus Diagrams (2015)
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:39]
+:END:
+
+Lambda Calculus Diagrams (2015) - https://tromp.github.io/cl/diagrams.html
+
+* TODO Three Ways of DevOps
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:39]
+:END:
+
+Three Ways of DevOps - https://ermetic.com/whats-new/blog/the-three-ways-of-devops/
+
+* TODO Paul Stamets on the interrelationship among mushrooms, consciousness, and nature
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:42]
+:END:
+
+Paul Stamets on the interrelationship among mushrooms, consciousness, and nature - http://nautil.us/issue/90/something-green/how-psilocybin-can-save-the-environment
+
+* TODO NestedText, a nice alternative to JSON, YAML, TOML
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:42]
+:END:
+
+NestedText, a nice alternative to JSON, YAML, TOML - https://nestedtext.org
+
+* TODO Bash Bracket Cheat Sheet (By Julia Evans)
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:43]
+:END:
+
+Bash Bracket Cheat Sheet (By Julia Evans) - https://wizardzines.com/comics/brackets-cheatsheet/
+
+* TODO Git Exercises
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:46]
+:END:
+
+Git Exercises - https://gitexercises.fracz.com/
+
+* TODO GHunt – An OSINT tool to extract information about a Google account
+:PROPERTIES:
+:CREATED:  [2020-10-05 Mon 06:49]
+:END:
+
+GHunt – An OSINT tool to extract information about a Google account - https://github.com/mxrch/GHunt
+
+* TODO Project Cambria: Translate your data with lenses
+:PROPERTIES:
+:CREATED:  [2020-10-07 Wed 06:32]
+:END:
+
+Project Cambria: Translate your data with lenses - https://www.inkandswitch.com/cambria.html
+
+* TODO The Complete AWS Lambda Handbook for Beginners
+:PROPERTIES:
+:CREATED:  [2020-10-08 Thu 06:36]
+:END:
+The Complete AWS Lambda Handbook for Beginners
+- https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/
+
+* TODO OLAP, OLTP, Zheap, and Tradeoffs in Postgres MVCC
+:PROPERTIES:
+:CREATED:  [2020-10-08 Thu 06:36]
+:END:
+
+OLAP, OLTP, Zheap, and Tradeoffs in Postgres MVCC - https://brandur.org/fragments/olap-oltp-zheap
+
+* TODO Lisp and Haskell (2015)
+:PROPERTIES:
+:CREATED:  [2020-10-08 Thu 19:11]
+:END:
+
+Lisp and Haskell (2015) - https://markkarpov.com/post/lisp-and-haskell.html
+
+* TODO OLTP performance since PostgreSQL 8.3 - 2ndQuadrant | PostgreSQL
+:PROPERTIES:
+:CREATED:  [2020-10-09 Fri 12:30]
+:END:
+
+https://www.2ndquadrant.com/en/blog/oltp-performance-since-postgresql-8-3/
+
+* TODO Fractal Learning
+:PROPERTIES:
+:CREATED:  [2020-10-11 Sun 15:16]
+:END:
+
+Fractal Learning - https://reisub0.github.io/fractal-learning.html
+
+* TODO Zheap – Reinvented PostgreSQL Storage
+:PROPERTIES:
+:CREATED:  [2020-10-13 Tue 06:32]
+:END:
+
+Zheap – Reinvented PostgreSQL Storage - https://cybertec-postgresql.github.io/zheap/
+
+* TODO Keeping Calm: When Distributed Consistency Is Easy
+:PROPERTIES:
+:CREATED:  [2020-10-13 Tue 06:32]
+:END:
+
+Keeping Calm: When Distributed Consistency Is Easy
+- https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext
+
+* TODO Learning Haskell – Miscellaneous Enlightenments
+:PROPERTIES:
+:CREATED:  [2020-10-13 Tue 06:35]
+:END:
+
+Learning Haskell – Miscellaneous Enlightenments - https://sras.me/haskell/miscellaneous-enlightenments.html
+
+* TODO The Widening Responsibility for Front-End Developers
+:PROPERTIES:
+:CREATED:  [2020-10-13 Tue 06:36]
+:END:
+
+The Widening Responsibility for Front-End Developers - https://css-tricks.com/the-widening-responsibility-for-front-end-developers/
+
+* TODO Kubernetes: Curated List of Tools and Resources
+:PROPERTIES:
+:CREATED:  [2020-10-13 Tue 06:36]
+:END:
+
+Kubernetes: Curated List of Tools and Resources - https://devopsunlocked.com/kubernetes-curated-list-of-tools-and-resources/
+
+* TODO A Review of Consensus Protocols
+:PROPERTIES:
+:CREATED:  [2020-10-14 Wed 11:13]
+:END:
+
+A Review of Consensus Protocols - https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols
+
+* TODO Classic Paper: The Unix Time-Sharing System. Highly Readable and Relevant
+:PROPERTIES:
+:CREATED:  [2020-10-16 Fri 06:28]
+:END:
+
+Classic Paper: The Unix Time-Sharing System. Highly Readable and Relevant - https://chsasank.github.io/classic_papers/unix-time-sharing-system.html
+
+* TODO Canonical introduces high-availability Micro-Kubernetes
+:PROPERTIES:
+:CREATED:  [2020-10-16 Fri 06:28]
+:END:
+
+Canonical introduces high-availability Micro-Kubernetes - https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/
+
+* TODO Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL
+:PROPERTIES:
+:CREATED:  [2020-10-17 Sat 06:06]
+:END:
+
+Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL - https://blog.joshsoftware.com/2020/10/14/efficient-evenly-distributed-sampling-of-time-series-records-in-postgresql/
+
+* TODO Pianojacq, an easy way to learn to play the piano
+:PROPERTIES:
+:CREATED:  [2020-10-17 Sat 06:07]
+:END:
+
+Pianojacq, an easy way to learn to play the piano - https://jacquesmattheij.com/2020-09-20-pianojacq-learn-to-play-piano/
+
+* TODO Smaller Docker Images Using Multi-Stage Builds
+:PROPERTIES:
+:CREATED:  [2020-10-17 Sat 06:08]
+:END:
+
+Smaller Docker Images Using Multi-Stage Builds - https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8
+
+* TODO Lisp from Nothing
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:31]
+:END:
+
+Lisp from Nothing - http://t3x.org/lfn/index.html
+
+* TODO Baumol Effect
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:34]
+:END:
+Baumol Effect - https://en.wikipedia.org/wiki/Baumol%27s_cost_disease
+* TODO Themed days, Timeboxing and why you should use them
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:34]
+:END:
+
+Themed days, Timeboxing and why you should use them - https://www.jamalx31.com/post/themed-days-timeboxing-and-why-you-should-use-them
+
+* TODO Thoughts on Conway's Law and the Software Stack
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:34]
+:END:
+
+Thoughts on Conway's Law and the Software Stack - https://blog.jessfraz.com/post/thoughts-on-conways-law-and-the-software-stack/
+
+* TODO Ask HN: How PostgreSQL source code is 3x shorter than MySQL's one?
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:38]
+:END:
+
+Ask HN: How PostgreSQL source code is 3x shorter than MySQL's one? - https://news.ycombinator.com/item?id=24813239
+
+* TODO Using AWS Cloud9 for browser-based development
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 05:40]
+:END:
+
+Using AWS Cloud9 for browser-based development - https://davidnoelromas.com/2020/10/16/using-aws-cloud9-for-browser-based-development.html
+
+* TODO Lecture notes on RISC-V assembly
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 08:25]
+:END:
+
+Lecture notes on RISC-V assembly - https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/
+
+* TODO Layoutit Grid – CSS Grids layouts made easy
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 23:00]
+:END:
+
+Layoutit Grid – CSS Grids layouts made easy - https://grid.layoutit.com/
+
+* TODO Emerging Architectures for Modern Data Infrastructure
+:PROPERTIES:
+:CREATED:  [2020-10-18 Sun 23:07]
+:END:
+
+Emerging Architectures for Modern Data Infrastructure - https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/
+
+* TODO Faster Web App Delivery with PRPL
+:PROPERTIES:
+:CREATED:  [2020-10-19 Mon 03:27]
+:END:
+
+Faster Web App Delivery with PRPL - https://addyosmani.com/blog/the-prpl-pattern/
+
+* TODO Haskell Web Framework IHP Aims to Make Web Development Type-Safe and Easy
+:PROPERTIES:
+:CREATED:  [2020-10-19 Mon 22:31]
+:END:
+
+Haskell Web Framework IHP Aims to Make Web Development Type-Safe and Easy - https://www.infoq.com/news/2020/07/ihp-haskell-web-framework/
+
+* TODO Fun with Combinators
+:PROPERTIES:
+:CREATED:  [2020-10-19 Mon 22:33]
+:END:
+
+Fun with Combinators - https://doisinkidney.com/posts/2020-10-17-ski.html
+
+* TODO Solid Relevance by Uncle Bob
+:PROPERTIES:
+:CREATED:  [2020-10-19 Mon 22:36]
+:END:
+
+Solid Relevance by Uncle Bob - http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
+
+* TODO The surprising impact of medium-size texts on PostgreSQL performance
+:PROPERTIES:
+:CREATED:  [2020-10-21 Wed 06:10]
+:END:
+
+The surprising impact of medium-size texts on PostgreSQL performance - https://hakibenita.com/sql-medium-text-performance
+
+* TODO What sharks can teach us about survivorship bias
+:PROPERTIES:
+:CREATED:  [2020-10-21 Wed 06:10]
+:END:
+
+What sharks can teach us about survivorship bias - https://fs.blog/2020/10/sharks-survivorship-bias/
+
+* TODO “A TOAST from PostgreSQL”
+:PROPERTIES:
+:CREATED:  [2020-10-21 Wed 06:12]
+:END:
+
+“A TOAST from PostgreSQL” by Nishanth Shetty https://link.medium.com/rewsWTSRKab
+
+* TODO A brief introduction to BEAM
+:PROPERTIES:
+:CREATED:  [2020-10-21 Wed 23:04]
+:END:
+
+A brief introduction to BEAM - https://blog.erlang.org/a-brief-BEAM-primer/
+
+* TODO Comparison of Kubernetes Ingress Controllers
+:PROPERTIES:
+:CREATED:  [2020-10-22 Thu 18:39]
+:END:
+
+Comparison of Kubernetes Ingress Controllers - https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit
+
+* TODO Node.js 15.0
+:PROPERTIES:
+:CREATED:  [2020-10-24 Sat 07:26]
+:END:
+
+Node.js 15.0 - https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278
+
+* TODO Falsehoods programmers believe about time zones
+:PROPERTIES:
+:CREATED:  [2020-10-24 Sat 07:27]
+:END:
+
+Falsehoods programmers believe about time zones - https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/
+
+* TODO Create React App 4.0
+:PROPERTIES:
+:CREATED:  [2020-10-24 Sat 07:27]
+:END:
+
+Create React App 4.0 - https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md
+
+* TODO Six Tips to Ace a SQL Interview
+:PROPERTIES:
+:CREATED:  [2020-10-24 Sat 07:27]
+:END:
+
+Six Tips to Ace a SQL Interview - https://product.hubspot.com/blog/six-tips-to-ace-an-analyst-sql-interview
+
+* TODO Anki as Learning Superpower: Computer Science Edition
+:PROPERTIES:
+:CREATED:  [2020-10-24 Sat 13:15]
+:END:
+
+Anki as Learning Superpower: Computer Science Edition - https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/
+
+* TODO Pandoc – A universal document converter
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:21]
+:END:
+
+Pandoc – A universal document converter - https://pandoc.org/
+
+* TODO Binwalk: Firmware Analysis Tool
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:23]
+:END:
+
+Binwalk: Firmware Analysis Tool - https://github.com/ReFirmLabs/binwalk
+
+* TODO The Ghidra Book
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:35]
+:END:
+
+The Ghidra Book - https://nostarch.com/GhidraBook
+
+* TODO Anki as Learning Superpower: Computer Science Edition
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:36]
+:END:
+
+Anki as Learning Superpower: Computer Science Edition - https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/
+
+* TODO /.bashrc VS –/.profile VS –/.bash_profile
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:39]
+:END:
+
+/.bashrc VS –/.profile VS –/.bash_profile - https://leimao.github.io/blog/bashrc-VS-profile-VS-bash_profile/
+
+* TODO Static single assignment for functional programmers
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:53]
+:END:
+
+Static single assignment for functional programmers - https://wingolog.org/archives/2011/07/12/static-single-assignment-for-functional-programmers
+
+* TODO AdoptOpenJDK 8u272, 11.0.9, and 15.0.1 Available
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 06:54]
+:END:
+
+AdoptOpenJDK 8u272, 11.0.9, and 15.0.1 Available - https://blog.adoptopenjdk.net/2020/10/adoptopenjdk-8u272-1109-and-1501-available/
+
+* TODO Amazon SNS FIFO – First-in-First-Out Pub/Sub Messaging
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 07:08]
+:END:
+
+Amazon SNS FIFO – First-in-First-Out Pub/Sub Messaging - https://aws.amazon.com/blogs/aws/introducing-amazon-sns-fifo-first-in-first-out-pub-sub-messaging/
+
+* TODO Falsehoods programmers believe about time zones
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 07:10]
+:END:
+
+Falsehoods programmers believe about time zones - https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/
+
+* TODO Mathematics for Computer Science (2017) [pdf]
+:PROPERTIES:
+:CREATED:  [2020-10-25 Sun 18:39]
+:END:
+
+Mathematics for Computer Science (2017) [pdf] - https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+
+* TODO An Intuition for Lisp Syntax
+:PROPERTIES:
+:CREATED:  [2020-10-26 Mon 04:19]
+:END:
+
+An Intuition for Lisp Syntax - https://stopa.io/post/265
+
+* TODO Parsing Algorithms
+:PROPERTIES:
+:CREATED:  [2020-10-27 Tue 06:36]
+:END:
+
+Parsing Algorithms - http://dmitrysoshnikov.com/courses/parsing-algorithms/
+
+* TODO Restrict Access to your internal websites on AWS with BeyondCorp
+:PROPERTIES:
+:CREATED:  [2020-10-27 Tue 06:37]
+:END:
+
+Restrict Access to your internal websites on AWS with BeyondCorp - https://transcend.io/blog/restrict-access-to-internal-websites-with-beyondcorp
+
+* TODO Improving Postgres Connection Scalability: Snapshots
+:PROPERTIES:
+:CREATED:  [2020-10-27 Tue 06:38]
+:END:
+
+Improving Postgres Connection Scalability: Snapshots - https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/improving-postgres-connection-scalability-snapshots/ba-p/1806462
+
+* TODO Eslisp – An S-expression syntax for ECMAScript/JavaScript, with Lisp-like macros
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 01:51]
+:END:
+
+Eslisp – An S-expression syntax for ECMAScript/JavaScript, with Lisp-like macros - https://github.com/anko/eslisp
+
+* TODO Homotopy Type Theory [pdf]
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 01:52]
+:END:
+
+Homotopy Type Theory [pdf] - https://hottheory.files.wordpress.com/2012/08/hott2.pdf
+
+* TODO 30 Lines of Code Blew Up a 27-Ton Generator
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 01:53]
+:END:
+
+30 Lines of Code Blew Up a 27-Ton Generator - https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/
+
+* TODO How you could have come up with Paxos yourself
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 01:53]
+:END:
+
+How you could have come up with Paxos yourself - https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html
+
+* TODO Next.js 10
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 01:53]
+:END:
+
+Next.js 10 - https://nextjs.org/blog/next-10
+
+* TODO A Grand Unified Theory of Software Architecture
+:PROPERTIES:
+:CREATED:  [2020-10-28 Wed 13:32]
+:END:
+
+A Grand Unified Theory of Software Architecture - https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
+
+* TODO Understand (a little) about TCP (2015)
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:28]
+:END:
+
+Understand (a little) about TCP (2015) - https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/
+
+* TODO Show HN: Nhost – Open source Firebase alternative with GraphQL
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:36]
+:END:
+
+Show HN: Nhost – Open source Firebase alternative with GraphQL - https://nhost.io
+
+* TODO What's in a Linux Executable?
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:37]
+:END:
+
+What's in a Linux Executable? - https://fasterthanli.me/series/making-our-own-executable-packer/part-1
+
+* TODO TimescaleDB 2.0 released, now distributed multi-node
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:38]
+:END:
+
+TimescaleDB 2.0 released, now distributed multi-node - https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/
+
+* TODO Falsehoods programmers believe about addresses (2013)
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:39]
+:END:
+
+Falsehoods programmers believe about addresses (2013) - https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/
+
+* TODO SRE Teams: Hash
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:40]
+:END:
+
+SRE Teams: Hash - https://sreteams.substack.com/p/hash
+
+* TODO PGSync is now open source
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:40]
+:END:
+
+PGSync is now open source - https://github.com/toluaina/pgsync
+
+* TODO A Theory of Software Architecture
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:41]
+:END:
+
+A Theory of Software Architecture - https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
+
+* TODO Command Palette for Jira, GitHub and Google Workplace
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:42]
+:END:
+
+Command Palette for Jira, GitHub and Google Workplace - https://raycast.com/
+
+* TODO MemgraphDB: Why and how we implemented Bolt Protocol v4
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:43]
+:END:
+
+MemgraphDB: Why and how we implemented Bolt Protocol v4 - https://memgraph.com/blog/memgraph-1-2-release-implementing-the-bolt-protocol-v4
+
+* TODO Emerging JavaScript pattern: multiple return values
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:43]
+:END:
+
+Emerging JavaScript pattern: multiple return values - https://loige.co/emerging-javascript-pattern-multiple-return-values
+
+* TODO On Abandoning the X Server
+:PROPERTIES:
+:CREATED:  [2020-10-30 Fri 06:43]
+:END:
+
+On Abandoning the X Server - https://ajaxnwnk.blogspot.com/2020/10/on-abandoning-x-server.html
+
+* TODO A Researcher’s Guide to Some Legal Risks of Security Research [pdf]
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:13]
+:END:
+
+A Researcher’s Guide to Some Legal Risks of Security Research [pdf] - https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf
+
+* TODO Mendoza: Use stack machines to compute efficient JSON diffs
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:13]
+:END:
+
+Mendoza: Use stack machines to compute efficient JSON diffs - https://www.sanity.io/blog/mendoza
+
+* TODO Google’s Project Zero discloses Windows 0day that’s been under active exploit
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:14]
+:END:
+
+Google’s Project Zero discloses Windows 0day that’s been under active exploit - https://arstechnica.com/information-technology/2020/10/googles-project-zero-discloses-windows-0day-thats-been-under-active-exploit/?comments=1
+
+* TODO Dasel: Query/update data structs from the cmdline. Supports JSON,YAML,TOML,XML
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:15]
+:END:
+
+Dasel: Query/update data structs from the cmdline. Supports JSON,YAML,TOML,XML - https://github.com/TomWright/dasel
+
+* TODO Awk: `Begin { ` Part 1
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:16]
+:END:
+
+Awk: `Begin { ` Part 1 - https://jemma.dev/blog/awk-part-1
+
+* TODO How to waste half a day by not reading RFC 1034
+:PROPERTIES:
+:CREATED:  [2020-10-31 Sat 06:17]
+:END:
+
+How to waste half a day by not reading RFC 1034 - https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/
+
+* TODO The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:00]
+:END:
+
+The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis - https://www.scottaaronson.com/blog/?p=4974
+
+* TODO The story of the PDF
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:01]
+:END:
+
+The story of the PDF - https://www.vice.com/en/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format
+
+* TODO Dieter Rams: ten principles for good design
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:01]
+:END:
+
+Dieter Rams: ten principles for good design - https://www.vitsoe.com/gb/about/good-design
+
+* TODO Foundations of Software Engineering
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:02]
+:END:
+
+Foundations of Software Engineering - https://cmu-313.github.io
+
+* TODO Why I Prefer Functional Programming
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:03]
+:END:
+
+Why I Prefer Functional Programming - http://www.haskellforall.com/2020/10/why-i-prefer-functional-programming.html
+
+* TODO Java Concurrency – Understanding the Basics of Threads
+:PROPERTIES:
+:CREATED:  [2020-11-01 Sun 03:03]
+:END:
+
+Java Concurrency – Understanding the Basics of Threads - https://turkogluc.com/java-concurrency-basics-of-threads/
+
+* TODO Deprecating scp
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 07:33]
+:END:
+
+Deprecating scp - https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/
+
+* TODO Gron – Make JSON Greppable
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 07:33]
+:END:
+
+Gron – Make JSON Greppable - https://github.com/tomnomnom/gron
+
+* TODO A Linux sysadmin's introduction to cgroups
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:13]
+:END:
+
+A Linux sysadmin's introduction to cgroups - https://www.redhat.com/sysadmin/cgroups-part-one
+
+* TODO Understanding Distributed Consensus (2018)
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:14]
+:END:
+
+Understanding Distributed Consensus (2018) - https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus
+
+* TODO Real World Haskell
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:19]
+:END:
+
+Real World Haskell - https://mmhaskell.com/real-world
+
+* TODO SVG Path Editor
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:23]
+:END:
+
+SVG Path Editor - https://yqnn.github.io/svg-path-editor/
+
+* TODO Everything you need to know about UX/UI at a high-level
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:24]
+:END:
+
+Everything you need to know about UX/UI at a high-level - http://www.kickassux.com/vault
+
+* TODO Managing my personnal servers in 2020 with K3s
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:24]
+:END:
+
+Managing my personnal servers in 2020 with K3s - https://github.com/erebe/personal-server/blob/master/README.md
+
+* TODO The Turing-Completeness Problem
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:24]
+:END:
+
+The Turing-Completeness Problem - https://alan-lang.org/the-turing-completeness-problem.html
+
+* TODO Ridiculously Rapid SaaS Development with Observable, Firebase and Stripe
+:PROPERTIES:
+:CREATED:  [2020-11-07 Sat 08:25]
+:END:
+
+Ridiculously Rapid SaaS Development with Observable, Firebase and Stripe - https://observablehq.com/@tomlarkworthy/saas-tutorial
+
+* TODO Why not use GraphQL?
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 01:58]
+:END:
+
+Why not use GraphQL? - https://wundergraph.com/blog/why_not_use_graphql
+
+* TODO Don’t Forget About Associative Memories
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 01:59]
+:END:
+
+Don’t Forget About Associative Memories - https://thegradient.pub/dont-forget-about-associative-memories/
+
+* TODO V8 has optimized new JavaScript language features (2018)
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 01:59]
+:END:
+
+V8 has optimized new JavaScript language features (2018) - https://github.com/thlorenz/v8-perf/blob/master/language-features.md
+
+* TODO CSVs: The Good, the Bad, and the Ugly
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 02:00]
+:END:
+
+CSVs: The Good, the Bad, and the Ugly - https://alexgaynor.net/2020/sep/24/csv-good-bad-ugly/
+
+* TODO Technical debt as a lack of understanding
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 02:02]
+:END:
+
+Technical debt as a lack of understanding - https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/
+
+* TODO Deprecating scp
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 02:02]
+:END:
+
+Deprecating scp - https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/
+
+* TODO Sketch – From one to one million: how we grew Sketch
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 05:50]
+:END:
+
+Sketch – From one to one million: how we grew Sketch - https://www.sketch.com/blog/2020/10/22/from-one-to-one-million/
+
+* TODO Seriously, Stop Using RSA
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 05:51]
+:END:
+
+Seriously, Stop Using RSA - https://blog.trailofbits.com/2019/07/08/fuck-rsa/
+
+* TODO Books Programmers Don't Read (2008)
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 05:51]
+:END:
+
+Books Programmers Don't Read (2008) - https://billthelizard.blogspot.com/2008/12/books-programmers-dont-really-read.html
+
+* TODO Modernize Your Java Apps with Spring Boot and Spring Cloud GCP
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 05:53]
+:END:
+
+Modernize Your Java Apps with Spring Boot and Spring Cloud GCP - https://cloud.google.com/blog/products/application-development/modernize-your-java-apps-with-spring-cloud-gcp
+
+* TODO Remote Work: How the alternative has become the new norm
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 05:55]
+:END:
+
+Remote Work: How the alternative has become the new norm - https://remoteworkers.net/blog/remote-work-how-alternative-has-become-new-norm
+
+* TODO PostgreSQL Configuration for Humans
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 10:28]
+:END:
+
+PostgreSQL Configuration for Humans - https://postgresqlco.nf/en/doc/param/
+
+* TODO How to build a Gatsby website with Google Sheets
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 10:28]
+:END:
+
+How to build a Gatsby website with Google Sheets - https://iliashaddad.com/blog/how-to-build-a-gatsby-website-with-google-sheets
+
+* TODO Ask HN: Best MQTT Debugger
+:PROPERTIES:
+:CREATED:  [2020-11-08 Sun 10:29]
+:END:
+
+Ask HN: Best MQTT Debugger - https://news.ycombinator.com/item?id=25024114
+
+* TODO The Tao of Programming
+:PROPERTIES:
+:CREATED:  [2020-11-09 Mon 06:41]
+:END:
+
+The Tao of Programming - https://www.mit.edu/~xela/tao.html
+
+* TODO How Python bytecode is executed :PYTHON:
+:PROPERTIES:
+:CREATED:  [2020-11-09 Mon 21:09]
+:END:
+
+How Python bytecode is executed - https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/
+
+* TODO AWS Security Maturity Roadmap [pdf]
+:PROPERTIES:
+:CREATED:  [2020-11-09 Mon 21:09]
+:END:
+
+AWS Security Maturity Roadmap [pdf] - https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf
+
+* TODO Separating User Database and Authorization from Apps with Istio and FusionAuth
+:PROPERTIES:
+:CREATED:  [2020-11-09 Mon 21:13]
+:END:
+
+Separating User Database and Authorization from Apps with Istio and FusionAuth - https://reachablegames.com/oidc-fusionauth-istio/
+
+* TODO The Secret Math Society Known as Nicolas Bourbaki
+:PROPERTIES:
+:CREATED:  [2020-11-10 Tue 09:56]
+:END:
+
+The Secret Math Society Known as Nicolas Bourbaki - https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/
+
+* TODO A hidden gem in sound symmetry
+:PROPERTIES:
+:CREATED:  [2020-11-10 Tue 09:58]
+:END:
+
+A hidden gem in sound symmetry - https://soundshader.github.io/hn/acf/index.html
+
+* TODO Rehex – Reverse Engineers' Hex Editor
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:13]
+:END:
+
+Rehex – Reverse Engineers' Hex Editor - https://github.com/solemnwarning/rehex
+
+* TODO Logseq – privacy-first, open-source knowledge sharing and management platform
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:14]
+:END:
+
+Logseq – privacy-first, open-source knowledge sharing and management platform - https://github.com/logseq/logseq
+
+* TODO API design is stuck in the past
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:15]
+:END:
+
+API design is stuck in the past - https://buf.build/blog/api-design-is-stuck-in-the-past
+
+* TODO Pure destination-passing style in Linear Haskell
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:15]
+:END:
+
+Pure destination-passing style in Linear Haskell - https://www.tweag.io/blog/2020-11-11-linear-dps/
+
+* TODO Hunting for Malicious Packages on PyPI
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:21]
+:END:
+
+Hunting for Malicious Packages on PyPI - https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/
+
+* TODO Exotic Programming Ideas: Module Systems
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:22]
+:END:
+
+Exotic Programming Ideas: Module Systems - https://www.stephendiehl.com/posts/exotic01.html
+
+* TODO Evidence-based software engineering: book released
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:27]
+:END:
+
+Evidence-based software engineering: book released - http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/
+
+* TODO Teach Yourself Programming in Ten Years
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:31]
+:END:
+
+http://norvig.com/21-days.html
+
+* TODO Google Takeout: Export a copy of your data in Google services
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:49]
+:END:
+
+Google Takeout: Export a copy of your data in Google services - https://takeout.google.com/
+
+* TODO Ask HN: How do you manage your plain text notes
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:50]
+:END:
+
+Ask HN: How do you manage your plain text notes - https://news.ycombinator.com/item?id=25088205
+
+* TODO Job interest not a big predictor of job satisfaction
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:51]
+:END:
+
+Job interest not a big predictor of job satisfaction - https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php
+
+* TODO PRET – Printer Exploitation Toolkit
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:51]
+:END:
+
+PRET – Printer Exploitation Toolkit - https://github.com/RUB-NDS/PRET
+
+* TODO Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:52]
+:END:
+
+Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime - https://thecodinginterface.com/blog/heroku-postgres-migration-to-aurora/
+
+* TODO Postgres Observability
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:52]
+:END:
+
+Postgres Observability - https://pgstats.dev/
+
+* TODO Angular 11
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:55]
+:END:
+
+Angular 11 - https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7
+
+* TODO Qwant: The Search Engine That Respects Your Privacy
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:55]
+:END:
+
+Qwant: The Search Engine That Respects Your Privacy - https://www.qwant.com/
+
+* TODO Optical Illusions and Visual Phenomena
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 06:59]
+:END:
+
+Optical Illusions and Visual Phenomena - https://michaelbach.de/ot/
+
+* TODO Notion Timeline View
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 07:10]
+:END:
+
+Notion Timeline View - https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team
+
+* TODO PySDR: A Guide to SDR and DSP Using Python :PYTHON:
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 08:03]
+:END:
+
+PySDR: A Guide to SDR and DSP Using Python - https://pysdr.org/
+
+* TODO Linux Command One-Liners
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 08:04]
+:END:
+
+Linux Command One-Liners - https://www.commandlinefu.com/commands/browse
+
+* TODO HTTP Push Is Dead
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 08:04]
+:END:
+
+HTTP Push Is Dead - https://evertpot.com/http-2-push-is-dead/
+
+* TODO Everything Is an X
+:PROPERTIES:
+:CREATED:  [2020-11-14 Sat 10:58]
+:END:
+
+Everything Is an X - https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/
+
+* TODO Chakra UI v1 Released – Build accessible React apps with speed
+:PROPERTIES:
+:CREATED:  [2020-11-15 Sun 04:27]
+:END:
+
+Chakra UI v1 Released – Build accessible React apps with speed - https://chakra-ui.com/#
+
+* TODO What distinguishes great software engineers? [pdf]
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:26]
+:END:
+
+What distinguishes great software engineers? [pdf] - https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
+
+* TODO Reflections on my first completed application in OCaml
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:26]
+:END:
+
+Reflections on my first completed application in OCaml - https://discuss.ocaml.org/t/reflections-on-my-first-completed-application-in-ocaml/6768
+
+* TODO Packrat Parsing: Simple, Powerful, Lazy, Linear Time [pdf]
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:28]
+:END:
+
+Packrat Parsing: Simple, Powerful, Lazy, Linear Time [pdf] - https://pdos.csail.mit.edu/~baford/packrat/icfp02/packrat-icfp02.pdf
+
+* TODO The rise of randomized controlled trials (RCTs) in international development [pdf]
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:28]
+:END:
+
+The rise of randomized controlled trials (RCTs) in international development [pdf] - https://statmodeling.stat.columbia.edu/wp-content/uploads/2019/12/SouzaLe%C3%A3o-Eyal2019_Article_TheRiseOfRandomizedControlledT.pdf
+
+* TODO The Messaging Layer Security (MLS) Protocol
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:30]
+:END:
+
+The Messaging Layer Security (MLS) Protocol - https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/
+
+* TODO BetterExplained: Clear, intuitive lessons about mathematics
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:31]
+:END:
+
+BetterExplained: Clear, intuitive lessons about mathematics - https://betterexplained.com/
+
+* TODO Sad DNS Explained
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 06:44]
+:END:
+
+Sad DNS Explained - https://blog.cloudflare.com/sad-dns-explained/
+
+* TODO PostgreSQL psql command line tutorial and cheat sheet
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 20:58]
+:END:
+
+PostgreSQL psql command line tutorial and cheat sheet - https://tomcam.github.io/postgres/
+
+* TODO Exotic Programming Ideas: Part 2 (Term Rewriting)
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 20:59]
+:END:
+
+Exotic Programming Ideas: Part 2 (Term Rewriting) - https://www.stephendiehl.com/posts/exotic02.html
+
+* TODO Exotic Programming Ideas, Part 3: Effect Systems
+:PROPERTIES:
+:CREATED:  [2020-11-23 Mon 06:45]
+:END:
+
+Exotic Programming Ideas, Part 3: Effect Systems - https://www.stephendiehl.com/posts/exotic03.html
+
+* TODO Emacs in odd places                                            :EMACS:
+:PROPERTIES:
+:CREATED:  [2020-11-16 Mon 21:00]
+:END:
+
+Emacs in odd places - https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places
+
+* TODO Headlamp: a new UI for Kubernetes
+:PROPERTIES:
+:CREATED:  [2020-11-17 Tue 07:04]
+:END:
+
+Headlamp: a new UI for Kubernetes - https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/
+
+* TODO The Math of Password Hashing Algorithms and Entropy (2019)
+:PROPERTIES:
+:CREATED:  [2020-11-18 Wed 06:12]
+:END:
+
+The Math of Password Hashing Algorithms and Entropy (2019) - https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/
+
+* TODO AWS Network Firewall – New Managed Firewall Service in VPC
+:PROPERTIES:
+:CREATED:  [2020-11-18 Wed 06:13]
+:END:
+
+AWS Network Firewall – New Managed Firewall Service in VPC - https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/
+
+* TODO Making GitHub CI workflow 3x faster
+:PROPERTIES:
+:CREATED:  [2020-11-18 Wed 06:13]
+:END:
+
+Making GitHub CI workflow 3x faster - https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/
+
+* TODO You don't need no service mesh
+:PROPERTIES:
+:CREATED:  [2020-11-20 Fri 05:01]
+:END:
+
+You don't need no service mesh - https://serce.me/posts/23-07-2020-you-dont-need-no-service-mesh/
+
+* TODO Transitioning from Docker to Podman
+:PROPERTIES:
+:CREATED:  [2020-11-21 Sat 02:52]
+:END:
+
+Transitioning from Docker to Podman - https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/
+
+* TODO What do RISC and CISC mean in 2020?
+:PROPERTIES:
+:CREATED:  [2020-11-21 Sat 02:53]
+:END:
+
+What do RISC and CISC mean in 2020? - https://erik-engheim.medium.com/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de
+
+* TODO Show HN: Procedural-gl – open-source 3D mapping library built with Three.js
+:PROPERTIES:
+:CREATED:  [2020-11-21 Sat 02:55]
+:END:
+
+Show HN: Procedural-gl – open-source 3D mapping library built with Three.js - https://github.com/felixpalmer/procedural-gl-js
+
+* TODO Why do proof assistants use dependent type theory instead of set theory?
+:PROPERTIES:
+:CREATED:  [2020-11-21 Sat 10:15]
+:END:
+
+Why do proof assistants use dependent type theory instead of set theory? - https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista
+
+* TODO What Makes a Great Product Manager
+:PROPERTIES:
+:CREATED:  [2020-11-23 Mon 06:46]
+:END:
+
+What Makes a Great Product Manager - https://informedpm.com/posts/great-product-manager
+
+* TODO A Month of Terraform
+:PROPERTIES:
+:CREATED:  [2020-11-23 Mon 06:46]
+:END:
+
+A Month of Terraform - https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/
+
+* TODO COBOL Controls Your Money
+:PROPERTIES:
+:CREATED:  [2020-11-23 Mon 06:50]
+:END:
+
+COBOL Controls Your Money - https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money
+
+* TODO IHP – A Haskell web framework
+:PROPERTIES:
+:CREATED:  [2020-11-24 Tue 03:50]
+:END:
+
+IHP – A Haskell web framework - https://github.com/digitallyinduced/ihp
+
+* TODO Guide to OOMKill Alerting in Kubernetes Clusters
+:PROPERTIES:
+:CREATED:  [2020-11-24 Tue 03:52]
+:END:
+
+Guide to OOMKill Alerting in Kubernetes Clusters - https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters
+
+* TODO How Rainbow Tables Work
+:PROPERTIES:
+:CREATED:  [2020-11-26 Thu 06:39]
+:END:
+
+How Rainbow Tables Work - http://kestas.kuliukas.com/RainbowTables/
+
+* TODO Pandoc for TeXnicians [pdf]
+:PROPERTIES:
+:CREATED:  [2020-11-27 Fri 06:38]
+:END:
+
+Pandoc for TeXnicians [pdf] - https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf
+
+* TODO Reasoning about Colors
+:PROPERTIES:
+:CREATED:  [2020-11-27 Fri 06:41]
+:END:
+
+Reasoning about Colors - http://notes.neeasade.net/color-spaces.html
+
+* TODO Risp (In (Rust) (Lisp))
+:PROPERTIES:
+:CREATED:  [2020-11-27 Fri 06:49]
+:END:
+
+Risp (In (Rust) (Lisp)) - https://stopa.io/post/222
+
+* TODO K6: Like unit testing, for performance
+:PROPERTIES:
+:CREATED:  [2020-11-28 Sat 09:17]
+:END:
+
+K6: Like unit testing, for performance - https://github.com/loadimpact/k6
+
+* TODO Reveal.js: HTML presentation framework
+:PROPERTIES:
+:CREATED:  [2020-11-28 Sat 09:17]
+:END:
+
+Reveal.js: HTML presentation framework - https://revealjs.com/
+
+* TODO Poisson distribution is a special case of the Binomial
+:PROPERTIES:
+:CREATED:  [2020-11-29 Sun 20:24]
+:END:
+
+Poisson distribution is a special case of the Binomial - https://www.andrewchamberlain.com/field-notes/simple-math-of-poisson-and-binomial-distributions
+
+* TODO 2Q: The Postgres Caching Algorithm
+:PROPERTIES:
+:CREATED:  [2020-11-29 Sun 20:25]
+:END:
+
+2Q: The Postgres Caching Algorithm - https://arpitbhayani.me/blogs/2q-cache?ref=hn
+
+* TODO OCaml User Survey 2020 Results
+:PROPERTIES:
+:CREATED:  [2020-11-30 Mon 06:51]
+:END:
+
+OCaml User Survey 2020 Results - https://www.dropbox.com/s/omba1d8vhljnrcn/OCaml-user-survey-2020.pdf?dl=0
+
+* TODO Error Handling Is Hard
+:PROPERTIES:
+:CREATED:  [2020-12-01 Tue 06:40]
+:END:
+
+Error Handling Is Hard - https://www.fpcomplete.com/blog/error-handling-is-hard/
+
+* TODO Do we really need a third Apache project for columnar data? (2017)
+:PROPERTIES:
+:CREATED:  [2020-12-02 Wed 06:40]
+:END:
+
+Do we really need a third Apache project for columnar data? (2017) - http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html
+
+* TODO HTTP/2 Push is dead
+:PROPERTIES:
+:CREATED:  [2020-12-03 Thu 06:58]
+:END:
+
+HTTP/2 Push is dead - https://evertpot.com/http-2-push-is-dead/
+
+* TODO Kubernetes is deprecating Docker runtime support
+:PROPERTIES:
+:CREATED:  [2020-12-03 Thu 06:59]
+:END:
+
+Kubernetes is deprecating Docker runtime support - https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md
+
+* TODO Reparse – A comprehensive parser combinator for OCaml
+:PROPERTIES:
+:CREATED:  [2020-12-04 Fri 06:38]
+:END:
+
+Reparse – A comprehensive parser combinator for OCaml - https://github.com/lemaetech/reparse
+
+* TODO EmacsConf 2020 Talks                                           :EMACS:
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 05:54]
+:END:
+
+EmacsConf 2020 Talks - https://emacsconf.org/2020/talks/
+
+* TODO Show HN: Squiggle – A Sketch library for making low-fidelity wireframes
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 05:54]
+:END:
+
+Show HN: Squiggle – A Sketch library for making low-fidelity wireframes - https://ui8.net/squiggle/products/squiggle
+
+* TODO YARA – The pattern matching swiss knife
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 05:56]
+:END:
+
+YARA – The pattern matching swiss knife - https://github.com/VirusTotal/yara
+
+* TODO CLI Guidelines – A guide to help you write better command-line programs
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 05:57]
+:END:
+
+CLI Guidelines – A guide to help you write better command-line programs - https://clig.dev/
+
+* TODO VisiData in 60 Seconds
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:06]
+:END:
+
+VisiData in 60 Seconds - https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/
+
+* TODO Gaming Mathematics: Probability
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:06]
+:END:
+
+Gaming Mathematics: Probability - https://www.888casino.com/blog/gaming-mathematics/gambling-probability
+
+* TODO Exotic Programming Ideas
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:13]
+:END:
+
+Exotic Programming Ideas - https://www.stephendiehl.com/posts/exotic04.html
+
+* TODO Whirlwind Tour of Stack (Haskell Build Tool) for Beginners
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:13]
+:END:
+
+Whirlwind Tour of Stack (Haskell Build Tool) for Beginners - https://schooloffp.co/2020/12/05/whirlwind-tour-of-stack-for-beginners.html
+
+* TODO PKCE: What and Why
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:19]
+:END:
+
+PKCE: What and Why - https://dropbox.tech/developers/pkce--what-and-why-
+
+* TODO Project Loom and Structured Concurrency
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:20]
+:END:
+
+Project Loom and Structured Concurrency - https://www.javaadvent.com/2020/12/project-loom-and-structured-concurrency.html
+
+* TODO No One Ever Got Fired for Choosing React
+:PROPERTIES:
+:CREATED:  [2020-12-07 Mon 06:21]
+:END:
+
+No One Ever Got Fired for Choosing React - https://jake.nyc/words/no-one-ever-got-fired-for-choosing-react/
+
+* TODO Double fetches, scheduling algorithms, and onion rings
+:PROPERTIES:
+:CREATED:  [2020-12-11 Fri 03:22]
+:END:
+
+Double fetches, scheduling algorithms, and onion rings - https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/
+
+* TODO Cameras and Lenses
+:PROPERTIES:
+:CREATED:  [2020-12-11 Fri 03:35]
+:END:
+
+Cameras and Lenses - https://ciechanow.ski/cameras-and-lenses/
+
+* TODO How the Python object system works
+:PROPERTIES:
+:CREATED:  [2020-12-12 Sat 03:47]
+:END:
+
+How the Python object system works - https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works/
+
+* TODO “Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle
+:PROPERTIES:
+:CREATED:  [2020-12-14 Mon 06:58]
+:END:
+
+“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle - https://craigtaub.dev/under-the-hood-of-graphql
+
+* TODO Become Shell Literate                              :SHELL:PROGRAMMING:
+:PROPERTIES:
+:CREATED:  [2020-12-14 Mon 07:00]
+:END:
+
+Become Shell Literate - https://drewdevault.com/2020/12/12/Shell-literacy.html
+
+* TODO Clean architecture: Domain-driven design, part 1    :ARCHITECTURE:DDD:
+:PROPERTIES:
+:CREATED:  [2020-12-14 Mon 07:01]
+:END:
+
+Clean architecture: Domain-driven design, part 1 - https://ddimitrov.dev/2020/12/13/domain-driven-design-and-clean-architecture/
+
+* TODO How we built scalable spatial indexing in CockroachDB
+:PROPERTIES:
+:CREATED:  [2020-12-15 Tue 05:13]
+:END:
+
+How we built scalable spatial indexing in CockroachDB - https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/
+
+* TODO ReScript 8.4
+:PROPERTIES:
+:CREATED:  [2020-12-15 Tue 05:13]
+:END:
+
+ReScript 8.4 - https://rescript-lang.org/blog/bucklescript-release-8-4
+
+* TODO REST vs. GraphQL – A search for evidence on which is better
+:PROPERTIES:
+:CREATED:  [2020-12-16 Wed 05:56]
+:END:
+
+REST vs. GraphQL – A search for evidence on which is better - https://42papers.com/p/rest-vs-graphql-a-controlled-experiment
+
+* TODO Cloudquery: Easily ask questions about your cloud infrastructure
+:PROPERTIES:
+:CREATED:  [2020-12-16 Wed 05:57]
+:END:
+
+Cloudquery: Easily ask questions about your cloud infrastructure - https://github.com/cloudquery/cloudquery
+
+* TODO Minimal safe Bash script template
+:PROPERTIES:
+:CREATED:  [2020-12-16 Wed 05:59]
+:END:
+
+Minimal safe Bash script template - https://betterdev.blog/minimal-safe-bash-script-template/
+
+* TODO Boost Up Productivity in Bash - Tips and Tricks | Linux Journal
+:PROPERTIES:
+:CREATED:  [2020-12-17 Thu 18:25]
+:END:
+
+https://www.linuxjournal.com/content/boost-productivity-bash-tips-and-tricks
+
+* TODO GCP IAM roles explained. When to use basic vs predefined vs… | by Adrien Walkowiak | Google Cloud - Community | Dec, 2020 | Medium
+:PROPERTIES:
+:CREATED:  [2020-12-18 Fri 06:38]
+:END:
+
+https://medium.com/google-cloud/gcp-iam-roles-explained-af84955346e7
+
+* TODO Show HN: I wrote a book on implementing DDD, CQRS and Event Sourcing
+:PROPERTIES:
+:CREATED:  [2020-12-20 Sun 07:30]
+:END:
+
+Show HN: I wrote a book on implementing DDD, CQRS and Event Sourcing - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing
+
+* TODO Understanding how AES encryption works
+:PROPERTIES:
+:CREATED:  [2020-12-21 Mon 06:27]
+:END:
+
+Understanding how AES encryption works - https://nakabonne.dev/posts/understanding-how-aes-encryption-works/
+
+* TODO An Introduction to Lock-Free Programming
+:PROPERTIES:
+:CREATED:  [2020-12-21 Mon 06:29]
+:END:
+
+An Introduction to Lock-Free Programming - https://preshing.com/20120612/an-introduction-to-lock-free-programming/
+
+* TODO More challenging projects every programmer should try
+:PROPERTIES:
+:CREATED:  [2020-12-21 Mon 06:31]
+:END:
+
+More challenging projects every programmer should try - https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
+
+* TODO Where to Start with Design Tokens
+:PROPERTIES:
+:CREATED:  [2020-12-23 Wed 12:37]
+:END:
+
+Where to Start with Design Tokens - https://maecapozzi.com/where-to-start-with-design-tokens/?ref=heydesigner
+
+* TODO Hell Yes CSS
+:PROPERTIES:
+:CREATED:  [2020-12-23 Wed 12:37]
+:END:
+
+Hell Yes CSS - https://wizardzines.com/zines/css/
+
+* TODO BlocklySQL: A new block-based editor for SQL
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:48]
+:END:
+
+BlocklySQL: A new block-based editor for SQL - https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html
+
+* TODO Jepsen: Scylla 4.2-rc3
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:48]
+:END:
+
+Jepsen: Scylla 4.2-rc3 - https://jepsen.io/analyses/scylla-4.2-rc3
+
+* TODO Web Authentication Methods Compared
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:50]
+:END:
+
+Web Authentication Methods Compared - https://testdriven.io/blog/web-authentication-methods/
+
+* TODO Web Authentication Methods Compared | TestDriven.io
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:54]
+:END:
+
+https://testdriven.io/blog/web-authentication-methods/
+
+* TODO Defensive Programming
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:56]
+:END:
+
+Defensive Programming - https://interrupt.memfault.com/blog/defensive-and-offensive-programming
+
+* TODO Show HN: Edamagit – Magit for VSCode
+:PROPERTIES:
+:CREATED:  [2020-12-24 Thu 06:58]
+:END:
+
+Show HN: Edamagit – Magit for VSCode - https://github.com/kahole/edamagit
+
+* TODO In CPython, types implemented in C are part of the type tree
+:PROPERTIES:
+:CREATED:  [2020-12-25 Fri 04:02]
+:END:
+
+In CPython, types implemented in C are part of the type tree - https://utcc.utoronto.ca/~cks/space/blog/python/CPythonCTypesHaveTree
+
+* TODO NIST Digital Library of Mathematical Functions                  :MATH:
+:PROPERTIES:
+:CREATED:  [2020-12-25 Fri 04:03]
+:END:
+
+NIST Digital Library of Mathematical Functions - https://dlmf.nist.gov/
+
+* TODO A Complete Guide to LLVM for Programming Language Creators
+:PROPERTIES:
+:CREATED:  [2020-12-26 Sat 02:59]
+:END:
+
+A Complete Guide to LLVM for Programming Language Creators - https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+* TODO Figma: The product design team’s process
+:PROPERTIES:
+:CREATED:  [2020-12-26 Sat 07:43]
+:END:
+
+Figma: The product design team’s process - https://www.figma.com/blog/inside-figma-the-product-design-teams-process/
+
+* TODO The biggest and weirdest commits in Linux kernel Git history (2017)
+:PROPERTIES:
+:CREATED:  [2020-12-26 Sat 08:18]
+:END:
+
+The biggest and weirdest commits in Linux kernel Git history (2017) - https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history
+
+* TODO API pagination design                                     :PAGINATION:
+:PROPERTIES:
+:CREATED:  [2020-12-27 Sun 08:42]
+:END:
+
+API pagination design - https://solovyov.net/blog/2020/api-pagination-design/
+
+* TODO Run More Stuff in Docker                                  :CONTAINERS:
+:PROPERTIES:
+:CREATED:  [2020-12-27 Sun 08:44]
+:END:
+
+Run More Stuff in Docker - https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/
+
+* TODO Partial order and non-Boolean logic
+:PROPERTIES:
+:CREATED:  [2020-12-27 Sun 08:47]
+:END:
+
+Partial order and non-Boolean logic - https://wordsandbuttons.online/partial_order_and_non_boolean_logic.html
+
+* TODO Introduction to Reinforcement Learning with David Silver
+:PROPERTIES:
+:CREATED:  [2020-12-27 Sun 12:13]
+:END:
+
+Introduction to Reinforcement Learning with David Silver - https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
+
+* TODO Against Essential and Accidental Complexity
+:PROPERTIES:
+:CREATED:  [2020-12-29 Tue 15:05]
+:END:
+
+Against Essential and Accidental Complexity - https://danluu.com/essential-complexity/
+
+* TODO Reflections on the Lack of Adoption of Domain Specific Languages [pdf]
+:PROPERTIES:
+:CREATED:  [2020-12-29 Tue 15:07]
+:END:
+
+Reflections on the Lack of Adoption of Domain Specific Languages [pdf] - http://grammarware.net/text/2020/dsl-adoption.pdf
+
+* TODO Stack Based Virtual Machines (2015)
+:PROPERTIES:
+:CREATED:  [2020-12-29 Tue 15:07]
+:END:
+
+Stack Based Virtual Machines (2015) - https://andreabergia.com/stack-based-virtual-machines/
+
+* TODO Computer Science textbooks that are freely available online
+:PROPERTIES:
+:CREATED:  [2020-12-30 Wed 06:32]
+:END:
+
+Computer Science textbooks that are freely available online - https://csgordon.github.io/books.html
+
+* TODO GHC 9.0, supporting linear types                             :HASKELL:
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 02:39]
+:END:
+
+- GHC 9.0, supporting linear types:
+  - https://discourse.haskell.org/t/glasgow-haskell-compiler-9-0-1-rc1-now-available/1706
+
+* TODO Don't Use Protobuf for Telemetry
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 02:39]
+:END:
+
+Don't Use Protobuf for Telemetry - https://richardstartin.github.io/posts/dont-use-protobuf-for-telemetry
+
+* TODO Spirals, Snowflakes and Trees: Recursion in Pictures
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 02:39]
+:END:
+
+Spirals, Snowflakes and Trees: Recursion in Pictures - http://learn.hfm.io/fractals.html
+
+* TODO Ex-product manager at Google about why Google Cloud Platform lost to AWS
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 02:47]
+:END:
+
+Ex-product manager at Google about why Google Cloud Platform lost to AWS - https://www.twitter.com/mohapatrahemant/status/1343969802080030720
+
+* TODO Linux Hardening Guide
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 09:34]
+:END:
+
+Linux Hardening Guide - https://madaidans-insecurities.github.io/guides/linux-hardening.html
+* TODO The Big Little Guide to Message Queues                     :MESSAGING:
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 17:36]
+:END:
+
+The Big Little Guide to Message Queues - https://sudhir.io/the-big-little-guide-to-message-queues/
+
+* TODO How are Docker images built? A look into overlay file-systems :CONTAINERS:DOCKER:
+:PROPERTIES:
+:CREATED:  [2020-12-31 Thu 22:23]
+:END:
+
+How are Docker images built? A look into overlay file-systems - https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-51d65c73c416
+* TODO F# for fun and profit: Terms and Conditions                       :F#:
+:PROPERTIES:
+:CREATED:  [2021-01-02 Sat 08:38]
+:END:
+
+F# for fun and profit: Terms and Conditions - https://fsharpforfunandprofit.com/about/terms/
+
+* TODO Dockerfile Best Practices                                     :DOCKER:
+:PROPERTIES:
+:CREATED:  [2021-01-03 Sun 13:11]
+:END:
+
+Dockerfile Best Practices - https://github.com/hexops/dockerfile
+
+* TODO Ditherpunk: The article I wish I had about monochrome image dithering :GRAPHICS:
+:PROPERTIES:
+:CREATED:  [2021-01-04 Mon 21:51]
+:END:
+
+Ditherpunk: The article I wish I had about monochrome image dithering - https://surma.dev/things/ditherpunk/
+
+* TODO Cloud Development Kit (CDK) by AWS will completely change software
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 06:40]
+:END:
+
+Cloud Development Kit (CDK) by AWS will completely change software - https://news.ycombinator.com/item?id=25642100
+
+* TODO The Evolution of a Haskell Programmer (2001)                 :HASKELL:
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 06:42]
+:END:
+
+The Evolution of a Haskell Programmer (2001) - http://willamette.edu/~fruehr/haskell/evolution.html
+
+* TODO Show HN: I made a new GraphQL IDE – grepql, generates every queries from schema
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 06:46]
+:END:
+
+Show HN: I made a new GraphQL IDE – grepql, generates every queries from schema - https://grepql.netlify.app/
+
+* TODO DNS Key Value Storage
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 06:48]
+:END:
+
+DNS Key Value Storage - https://dnskv.com/
+
+* TODO How to open a file in Emacs - Murilo Pereira                   :EMACS:
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 07:04]
+:END:
+
+https://www.murilopereira.com/how-to-open-a-file-in-emacs/
+
+* TODO Graphqurl: Curl for GraphQL, with Autocomplete and Subscriptions
+:PROPERTIES:
+:CREATED:  [2021-01-05 Tue 22:18]
+:END:
+
+Graphqurl: Curl for GraphQL, with Autocomplete and Subscriptions - https://github.com/hasura/graphqurl
+
+* TODO How Tail Call Optimization Works
+:PROPERTIES:
+:CREATED:  [2021-01-08 Fri 06:41]
+:END:
+
+How Tail Call Optimization Works - https://eklitzke.org/how-tail-call-optimization-works
+
+* TODO Codebreaking: A Practical Guide
+:PROPERTIES:
+:CREATED:  [2021-01-08 Fri 06:48]
+:END:
+
+Codebreaking: A Practical Guide - https://www.codebreaking-guide.com/
+
+* TODO Haskell is a Bad Programming Language (2020)                 :HASKELL:
+:PROPERTIES:
+:CREATED:  [2021-01-09 Sat 13:48]
+:END:
+
+Haskell is a Bad Programming Language (2020) - https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/#👾
+
+* TODO Why mmap is faster than system calls
+:PROPERTIES:
+:CREATED:  [2021-01-09 Sat 22:56]
+:END:
+
+Why mmap is faster than system calls - https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37
+
+* TODO The many lies about reducing complexity part 2: Cloud
+:PROPERTIES:
+:CREATED:  [2021-01-10 Sun 18:59]
+:END:
+
+The many lies about reducing complexity part 2: Cloud - https://ea.rna.nl/2021/01/10/the-many-lies-about-reducing-complexity-part-2-cloud/
+
+* Hardening Docker and Kubernetes with seccomp | by Martin Heinz | Jan, 2021 | ITNEXT
+:PROPERTIES:
+:CREATED:  [2021-01-17 Sun 07:04]
+:END:
+
+https://martinheinz.dev/blog/41
+
+* Computer System Engineering
+:PROPERTIES:
+:CREATED:  [2021-01-17 Sun 07:44]
+:END:
+
+Computer System Engineering - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/
+
+* Software effort estimation is mostly fake research
+:PROPERTIES:
+:CREATED:  [2021-01-18 Mon 21:18]
+:END:
+
+Software effort estimation is mostly fake research - http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/
+
+* Sosumi Snap – Download and Install macOS in Ubuntu
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 04:42]
+:END:
+
+Sosumi Snap – Download and Install macOS in Ubuntu - https://github.com/popey/sosumi-snap
+
+* Software effort estimation is mostly fake research
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 04:42]
+:END:
+
+Software effort estimation is mostly fake research - http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/
+
+* Software engineering is a learning process, working code is a side effect
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 04:46]
+:END:
+
+Software engineering is a learning process, working code is a side effect - https://www.lambdabytes.io/posts/selearning/
+
+* That XOR Trick (2020)
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 04:46]
+:END:
+
+That XOR Trick (2020) - https://florian.github.io/xor-trick
+
+* Show HN: BFS, Dijkstra and A* interactive demo made in React
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 04:48]
+:END:
+
+Show HN: BFS, Dijkstra and A* interactive demo made in React - https://github.com/npretto/pathfinding
+
+* Why you should care about the Nate Silver vs. Nassim Taleb Twitter war
+https://link.medium.com/C3gLu75ladb
+:PROPERTIES:
+:CREATED:  [2021-01-19 Tue 06:48]
+:END:
+
+Taleb vs Silver
+
+* Toolz: A functional standard library for Python
+:PROPERTIES:
+:CREATED:  [2021-01-22 Fri 05:44]
+:END:
+
+Toolz: A functional standard library for Python - https://github.com/pytoolz/toolz
+
+* Basic Scripting with Awk and Gnuplot
+:PROPERTIES:
+:CREATED:  [2021-01-22 Fri 06:31]
+:END:
+
+Basic Scripting with Awk and Gnuplot - https://cyberchris.xyz/posts/awk-and-gnuplot/
+
+* Capturing call stack with Haskell exceptions
+:PROPERTIES:
+:CREATED:  [2021-01-23 Sat 07:08]
+:END:
+
+Capturing call stack with Haskell exceptions - https://maksbotan.github.io/posts/2021-01-20-callstacks.html
+
+* Why OCaml
+:PROPERTIES:
+:CREATED:  [2021-01-24 Sun 04:39]
+:END:
+
+Why OCaml - https://www.youtube.com/watch?v=v1CmGbOGb2I
+
+* CSRankings: Computer Science Rankings
+:PROPERTIES:
+:CREATED:  [2021-01-24 Sun 04:47]
+:END:
+
+CSRankings: Computer Science Rankings - http://csrankings.org/
+
+* PGM Indexes: Learned indexes that match B-tree performance with 83x less space
+:PROPERTIES:
+:CREATED:  [2021-01-25 Mon 07:10]
+:END:
+
+PGM Indexes: Learned indexes that match B-tree performance with 83x less space - https://pgm.di.unipi.it/
+
+* Load balancing and its different types
+:PROPERTIES:
+:CREATED:  [2021-01-27 Wed 06:09]
+:END:
+
+Load balancing and its different types - https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/
+
+* Obedience to Authority: The Experiments by Stanley Milgram
+:PROPERTIES:
+:CREATED:  [2021-01-28 Thu 07:08]
+:END:
+
+Obedience to Authority: The Experiments by Stanley Milgram - http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html
+
+
 * LISA18 - What Breaks Our Systems: A Taxonomy of Black Swans
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 07:30]
@@ -511,7 +2506,7 @@ https://youtu.be/d1XzfHKOG1k
 
 https://youtu.be/9hohuqj-yI8
 
-* Org-mode, literate programming in Emacs
+* Org-mode, literate programming in Emacs                             :EMACS:
 :PROPERTIES:
 :CREATED:  [2019-03-24 Sun 13:35]
 :lg-subject: Org-mode, literate programming in Emacs
@@ -610,7 +2605,7 @@ https://youtu.be/Q9DwbUmfPcM
 
 Pointer Compression in V8 - https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
 
-* How to create presentations with emacs-reveal
+* How to create presentations with emacs-reveal                       :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-02-03 Mon 12:02]
 :END:
@@ -1038,7 +3033,7 @@ Systemd, ten years later: a historical and technical retrospective - https://blo
 
 A curated list for Kubernetes sources - https://github.com/ramitsurana/awesome-kubernetes
 
-* Bringing GNU Emacs to native code [video]
+* Bringing GNU Emacs to native code [video]                           :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-05-05 Tue 06:31]
 :END:
@@ -1066,7 +3061,7 @@ http://matt.might.net/articles/best-programming-languages/
 
 https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15
 
-* Evolution of Emacs Lisp [pdf]
+* Evolution of Emacs Lisp [pdf]                                       :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-05-07 Thu 16:16]
 :END:
@@ -1164,7 +3159,7 @@ Cache Oblivious Algorithms - https://jiahai-feng.github.io/posts/cache-oblivious
 
 Life is 90% of my use cases for org-mode - http://stormrider.io/ninety-pct.html
 
-* Org-roam: Emacs org file based personal knowledge base system
+* Org-roam: Emacs org file based personal knowledge base system       :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-07-03 Fri 19:55]
 :END:
@@ -1599,7 +3594,7 @@ Programming Idioms - https://programming-idioms.org/
 
 You can list a directory containing 8M files, but not with ls - http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html
 
-* Closing 45% of the open Emacs bugs
+* Closing 45% of the open Emacs bugs                                  :EMACS:
 :PROPERTIES:
 :CREATED:  [2021-08-16 Mon 07:18]
 :END:
