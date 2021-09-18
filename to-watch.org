@@ -1,5 +1,3 @@
-
-
 * TODO NestedText, a nice alternative to JSON, YAML, TOML
 :PROPERTIES:
 :from:     hn
@@ -163,6 +161,7 @@ Project Cambria: Translate your data with lenses - https://www.inkandswitch.com/
 :PROPERTIES:
 :CREATED:  [2020-10-08 Thu 06:36]
 :END:
+
 The Complete AWS Lambda Handbook for Beginners
 - https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/
 
@@ -283,7 +282,9 @@ Lisp from Nothing - http://t3x.org/lfn/index.html
 :PROPERTIES:
 :CREATED:  [2020-10-18 Sun 05:34]
 :END:
+
 Baumol Effect - https://en.wikipedia.org/wiki/Baumol%27s_cost_disease
+
 * TODO Themed days, Timeboxing and why you should use them
 :PROPERTIES:
 :CREATED:  [2020-10-18 Sun 05:34]
@@ -1180,7 +1181,7 @@ Exotic Programming Ideas: Part 2 (Term Rewriting) - https://www.stephendiehl.com
 
 Exotic Programming Ideas, Part 3: Effect Systems - https://www.stephendiehl.com/posts/exotic03.html
 
-* TODO Emacs in odd places                                            :EMACS:
+* TODO Emacs in odd places :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-11-16 Mon 21:00]
 :END:
@@ -1383,7 +1384,7 @@ Kubernetes is deprecating Docker runtime support - https://github.com/kubernetes
 
 Reparse – A comprehensive parser combinator for OCaml - https://github.com/lemaetech/reparse
 
-* TODO EmacsConf 2020 Talks                                           :EMACS:
+* TODO EmacsConf 2020 Talks :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-12-07 Mon 05:54]
 :END:
@@ -1488,14 +1489,14 @@ How the Python object system works - https://tenthousandmeters.com/blog/python-b
 
 “Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle - https://craigtaub.dev/under-the-hood-of-graphql
 
-* TODO Become Shell Literate                              :SHELL:PROGRAMMING:
+* TODO Become Shell Literate :SHELL:PROGRAMMING:
 :PROPERTIES:
 :CREATED:  [2020-12-14 Mon 07:00]
 :END:
 
 Become Shell Literate - https://drewdevault.com/2020/12/12/Shell-literacy.html
 
-* TODO Clean architecture: Domain-driven design, part 1    :ARCHITECTURE:DDD:
+* TODO Clean architecture: Domain-driven design, part 1 :ARCHITECTURE:DDD:
 :PROPERTIES:
 :CREATED:  [2020-12-14 Mon 07:01]
 :END:
@@ -1642,7 +1643,7 @@ Show HN: Edamagit – Magit for VSCode - https://github.com/kahole/edamagit
 
 In CPython, types implemented in C are part of the type tree - https://utcc.utoronto.ca/~cks/space/blog/python/CPythonCTypesHaveTree
 
-* TODO NIST Digital Library of Mathematical Functions                  :MATH:
+* TODO NIST Digital Library of Mathematical Functions :MATH:
 :PROPERTIES:
 :CREATED:  [2020-12-25 Fri 04:03]
 :END:
@@ -1670,14 +1671,14 @@ Figma: The product design team’s process - https://www.figma.com/blog/inside-f
 
 The biggest and weirdest commits in Linux kernel Git history (2017) - https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history
 
-* TODO API pagination design                                     :PAGINATION:
+* TODO API pagination design :PAGINATION:
 :PROPERTIES:
 :CREATED:  [2020-12-27 Sun 08:42]
 :END:
 
 API pagination design - https://solovyov.net/blog/2020/api-pagination-design/
 
-* TODO Run More Stuff in Docker                                  :CONTAINERS:
+* TODO Run More Stuff in Docker :CONTAINERS:
 :PROPERTIES:
 :CREATED:  [2020-12-27 Sun 08:44]
 :END:
@@ -1726,7 +1727,7 @@ Stack Based Virtual Machines (2015) - https://andreabergia.com/stack-based-virtu
 
 Computer Science textbooks that are freely available online - https://csgordon.github.io/books.html
 
-* TODO GHC 9.0, supporting linear types                             :HASKELL:
+* TODO GHC 9.0, supporting linear types :HASKELL:
 :PROPERTIES:
 :CREATED:  [2020-12-31 Thu 02:39]
 :END:
@@ -1761,7 +1762,8 @@ Ex-product manager at Google about why Google Cloud Platform lost to AWS - https
 :END:
 
 Linux Hardening Guide - https://madaidans-insecurities.github.io/guides/linux-hardening.html
-* TODO The Big Little Guide to Message Queues                     :MESSAGING:
+
+* TODO The Big Little Guide to Message Queues :MESSAGING:
 :PROPERTIES:
 :CREATED:  [2020-12-31 Thu 17:36]
 :END:
@@ -1774,14 +1776,15 @@ The Big Little Guide to Message Queues - https://sudhir.io/the-big-little-guide-
 :END:
 
 How are Docker images built? A look into overlay file-systems - https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-51d65c73c416
-* TODO F# for fun and profit: Terms and Conditions                       :F#:
+
+* TODO F# for fun and profit: Terms and Conditions :F#:
 :PROPERTIES:
 :CREATED:  [2021-01-02 Sat 08:38]
 :END:
 
 F# for fun and profit: Terms and Conditions - https://fsharpforfunandprofit.com/about/terms/
 
-* TODO Dockerfile Best Practices                                     :DOCKER:
+* TODO Dockerfile Best Practices :DOCKER:
 :PROPERTIES:
 :CREATED:  [2021-01-03 Sun 13:11]
 :END:
@@ -1802,7 +1805,7 @@ Ditherpunk: The article I wish I had about monochrome image dithering - https://
 
 Cloud Development Kit (CDK) by AWS will completely change software - https://news.ycombinator.com/item?id=25642100
 
-* TODO The Evolution of a Haskell Programmer (2001)                 :HASKELL:
+* TODO The Evolution of a Haskell Programmer (2001) :HASKELL:
 :PROPERTIES:
 :CREATED:  [2021-01-05 Tue 06:42]
 :END:
@@ -1823,7 +1826,7 @@ Show HN: I made a new GraphQL IDE – grepql, generates every queries from schem
 
 DNS Key Value Storage - https://dnskv.com/
 
-* TODO How to open a file in Emacs - Murilo Pereira                   :EMACS:
+* TODO How to open a file in Emacs - Murilo Pereira :EMACS:
 :PROPERTIES:
 :CREATED:  [2021-01-05 Tue 07:04]
 :END:
@@ -1851,7 +1854,7 @@ How Tail Call Optimization Works - https://eklitzke.org/how-tail-call-optimizati
 
 Codebreaking: A Practical Guide - https://www.codebreaking-guide.com/
 
-* TODO Haskell is a Bad Programming Language (2020)                 :HASKELL:
+* TODO Haskell is a Bad Programming Language (2020) :HASKELL:
 :PROPERTIES:
 :CREATED:  [2021-01-09 Sat 13:48]
 :END:
@@ -1929,6 +1932,7 @@ That XOR Trick (2020) - https://florian.github.io/xor-trick
 Show HN: BFS, Dijkstra and A* interactive demo made in React - https://github.com/npretto/pathfinding
 
 * Why you should care about the Nate Silver vs. Nassim Taleb Twitter war
+
 https://link.medium.com/C3gLu75ladb
 :PROPERTIES:
 :CREATED:  [2021-01-19 Tue 06:48]
@@ -1992,7 +1996,6 @@ Load balancing and its different types - https://www.wisdomgeek.com/development/
 
 Obedience to Authority: The Experiments by Stanley Milgram - http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html
 
-
 * LISA18 - What Breaks Our Systems: A Taxonomy of Black Swans
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 07:30]
@@ -2017,7 +2020,7 @@ https://youtu.be/UjMo1mgSMDo
 
 https://youtu.be/iC7xMymiIUY
 
-* The Whys and Hows of Database Streaming         :KAFKA:CDC:VIDEO:CASSANDRA:
+* The Whys and Hows of Database Streaming :KAFKA:CDC:VIDEO:CASSANDRA:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 16:42]
 :lg-subject: The Whys and Hows of Database Streaming
@@ -2026,6 +2029,7 @@ https://youtu.be/iC7xMymiIUY
 https://youtu.be/0K0fYHsFBZg
 
 ** Transcript.
+
 So I'm joy I'm a senior software engineer at a WePay.
 Hey everyone 
 If you haven't heard about WePay we provide payment solutions for platform businesses through our API.
@@ -2215,7 +2219,7 @@ https://youtu.be/E8-e-3fRHBw
 
 https://youtu.be/G0U63muHU4k
 
-* The End of the Universe - with Geraint Lewis            :ROYAL_INSTITUTION:
+* The End of the Universe - with Geraint Lewis :ROYAL_INSTITUTION:
 :PROPERTIES:
 :CREATED:  [2019-03-11 Mon 18:54]
 :lg-subject: The End of the Universe - with Geraint Lewis
@@ -2344,14 +2348,17 @@ https://youtu.be/um-A4qQut7g
 - https://youtu.be/_H7mp9lwFeo
 
 * YOW! Singapore 2018 - Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOWSG
- :PROPERTIES:
-:CREATED:  [2019-03-19 Tue 20:39]
-:END:
-- https://youtu.be/DdJNLeYldUs
-* YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOW 
 :PROPERTIES:
 :CREATED:  [2019-03-19 Tue 20:39]
 :END:
+
+- https://youtu.be/DdJNLeYldUs
+
+* YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise? #YOW
+:PROPERTIES:
+:CREATED:  [2019-03-19 Tue 20:39]
+:END:
+
 - https://youtu.be/mS0AJLqmnvQ
 
 * Day Two Kubernetes: Tools for Operability
@@ -2362,7 +2369,7 @@ https://youtu.be/um-A4qQut7g
 
 https://youtu.be/ujg2UuBm-Rs
 
-* Haskell Live-Coding, Session 1, Commutativity
+* TODO Haskell Live-Coding, Session 1, Commutativity :HASKELL:
 :PROPERTIES:
 :CREATED:  [2019-03-21 Thu 05:33]
 :lg-subject: Haskell Live-Coding, Session 1, Commutativity
@@ -2506,7 +2513,7 @@ https://youtu.be/d1XzfHKOG1k
 
 https://youtu.be/9hohuqj-yI8
 
-* Org-mode, literate programming in Emacs                             :EMACS:
+* Org-mode, literate programming in Emacs :EMACS:
 :PROPERTIES:
 :CREATED:  [2019-03-24 Sun 13:35]
 :lg-subject: Org-mode, literate programming in Emacs
@@ -2605,7 +2612,7 @@ https://youtu.be/Q9DwbUmfPcM
 
 Pointer Compression in V8 - https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html
 
-* How to create presentations with emacs-reveal                       :EMACS:
+* How to create presentations with emacs-reveal :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-02-03 Mon 12:02]
 :END:
@@ -3033,7 +3040,7 @@ Systemd, ten years later: a historical and technical retrospective - https://blo
 
 A curated list for Kubernetes sources - https://github.com/ramitsurana/awesome-kubernetes
 
-* Bringing GNU Emacs to native code [video]                           :EMACS:
+* Bringing GNU Emacs to native code [video] :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-05-05 Tue 06:31]
 :END:
@@ -3061,7 +3068,7 @@ http://matt.might.net/articles/best-programming-languages/
 
 https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15
 
-* Evolution of Emacs Lisp [pdf]                                       :EMACS:
+* Evolution of Emacs Lisp [pdf] :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-05-07 Thu 16:16]
 :END:
@@ -3159,7 +3166,7 @@ Cache Oblivious Algorithms - https://jiahai-feng.github.io/posts/cache-oblivious
 
 Life is 90% of my use cases for org-mode - http://stormrider.io/ninety-pct.html
 
-* Org-roam: Emacs org file based personal knowledge base system       :EMACS:
+* Org-roam: Emacs org file based personal knowledge base system :EMACS:
 :PROPERTIES:
 :CREATED:  [2020-07-03 Fri 19:55]
 :END:
@@ -3415,12 +3422,16 @@ React and D3.js - https://wattenberger.com/blog/react-and-d3
 :PROPERTIES:
 :CREATED:  [2021-04-01 Thu 19:58]
 :END:
+
 Category Theory: Orders - https://boris-marinov.github.io/category-theory-illustrated
+
 * Advanced Web Blog
+
 https://advancedweb.hu/
 :PROPERTIES:
 :CREATED:  [2021-04-02 Fri 09:29]
 :END:
+
 * TLA+ Graph Explorer
 :PROPERTIES:
 :CREATED:  [2021-04-08 Thu 07:05]
@@ -3594,7 +3605,7 @@ Programming Idioms - https://programming-idioms.org/
 
 You can list a directory containing 8M files, but not with ls - http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html
 
-* Closing 45% of the open Emacs bugs                                  :EMACS:
+* Closing 45% of the open Emacs bugs :EMACS:
 :PROPERTIES:
 :CREATED:  [2021-08-16 Mon 07:18]
 :END:
