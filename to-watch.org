@@ -1,3 +1,5 @@
+# -*- mode: org; org-tags-column: 0; -*-
+
 * TODO NestedText, a nice alternative to JSON, YAML, TOML
 :PROPERTIES:
 :from:     hn
@@ -86,7 +88,7 @@ Big O, Little N - https://adamzerner.bearblog.dev/big-o-little-n/
 
 Hetty: An HTTP toolkit for security research - https://github.com/dstotijn/hetty
 
-* TODO Actionsflow – IFTTT/Zapier free alternative based on GitHub Actions
+* TODO Actionsflow – IFTTT/Zapier free alternative based on GitHub Actions :GIT:DEVOPS:GITHUB:
 :PROPERTIES:
 :from:     hn
 :CREATED:  [2020-10-04 Sun 06:02]
@@ -94,7 +96,7 @@ Hetty: An HTTP toolkit for security research - https://github.com/dstotijn/hetty
 
 Actionsflow – IFTTT/Zapier free alternative based on GitHub Actions - https://github.com/actionsflow/actionsflow
 
-* TODO Simplified JavaScript Jargon
+* TODO Simplified JavaScript Jargon :JAVASCRIPT:
 :PROPERTIES:
 :CREATED:  [2020-10-04 Sun 06:16]
 :END:
@@ -4011,4 +4013,5 @@ Why Authorization Is Hard - https://www.osohq.com/post/why-authorization-is-hard
 :END:
 
 Vnlog: Manipulate labeled tabular data with standard Unix tools - https://github.com/dkogan/vnlog/
+
 
