@@ -4000,7 +4000,7 @@ Rs of Note Taking - https://aliabdaal.com/the-5-rs-of-note-taking/
 
 Color Map Advice for Scientific Visualization - https://www.kennethmoreland.com/color-advice/
 
-* Why Authorization Is Hard
+* TODO Why Authorization Is Hard
 :PROPERTIES:
 :CREATED:  [2021-09-19 Sun 08:51]
 :END:
@@ -4013,5 +4013,4 @@ Why Authorization Is Hard - https://www.osohq.com/post/why-authorization-is-hard
 :END:
 
 Vnlog: Manipulate labeled tabular data with standard Unix tools - https://github.com/dkogan/vnlog/
-
 
