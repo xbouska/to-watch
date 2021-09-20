@@ -4014,3 +4014,80 @@ Why Authorization Is Hard - https://www.osohq.com/post/why-authorization-is-hard
 
 Vnlog: Manipulate labeled tabular data with standard Unix tools - https://github.com/dkogan/vnlog/
 
+* On Code Review
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:35]
+:END:
+
+On Code Review - https://hugodias.substack.com/p/code-review
+
+* What is property-based testing? (2016)
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:40]
+:END:
+
+What is property-based testing? (2016) - https://hypothesis.works/articles/what-is-property-based-testing/
+
+* The Elements of Git
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:43]
+:END:
+
+The Elements of Git - https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/
+
+* Currying in JavaScript
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:48]
+:END:
+
+Currying in JavaScript - https://javascript.info/currying-partials
+
+* A cookbook with the best practices for working with Kubernetes
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:48]
+:END:
+
+A cookbook with the best practices for working with Kubernetes - https://github.com/diegolnasc/kubernetes-best-practices
+
+* 128-bit RISC-V assembler
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:49]
+:END:
+
+128-bit RISC-V assembler - https://github.com/fwsGonzo/bigassm
+
+* Revisiting Java in 2021 – Part II
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:49]
+:END:
+
+Revisiting Java in 2021 – Part II - https://www.avanwyk.com/revisiting-java-in-2021-ii/
+
+* Sysz – An fzf terminal UI for systemctl
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:49]
+:END:
+
+Sysz – An fzf terminal UI for systemctl - https://github.com/joehillen/sysz
+
+* I like e-readers now
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:50]
+:END:
+
+I like e-readers now - http://devinlogan.org/e-readers.html
+
+* Terraform is not the golden hammer
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:50]
+:END:
+
+Terraform is not the golden hammer - https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/
+
+* Linux on the Desktop: Part Two
+:PROPERTIES:
+:CREATED:  [2021-09-20 Mon 06:51]
+:END:
+
+Linux on the Desktop: Part Two - https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
+
