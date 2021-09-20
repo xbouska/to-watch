@@ -3965,7 +3965,7 @@ Linkerd amongst the ranks of Kubernetes and Prometheus - https://containerjourna
 
 The Unicode Standard, Version 14.0 - http://blog.unicode.org/2021/09/announcing-unicode-standard-version-140.html
 
-* Steven Pinker thinks your sense of imminent doom is wrong
+* Steven Pinker thinks your sense of imminent doom is wrong :STEVEN_PINKER:
 :PROPERTIES:
 :CREATED:  [2021-09-17 Fri 06:40]
 :END:
@@ -3979,7 +3979,7 @@ Steven Pinker thinks your sense of imminent doom is wrong - https://www.nytimes.
 
 - https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html
 
-* Visual Git Cheat Sheet
+* Visual Git Cheat Sheet :GIT:
 :PROPERTIES:
 :CREATED:  [2021-09-19 Sun 07:30]
 :END:
@@ -3993,7 +3993,7 @@ Visual Git Cheat Sheet - http://www.ndpsoftware.com/git-cheatsheet.html#loc=work
 
 Rs of Note Taking - https://aliabdaal.com/the-5-rs-of-note-taking/
 
-* Color Map Advice for Scientific Visualization
+* Color Map Advice for Scientific Visualization :COLORS:
 :PROPERTIES:
 :CREATED:  [2021-09-19 Sun 07:37]
 :END:
