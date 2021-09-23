@@ -4091,3 +4091,31 @@ Terraform is not the golden hammer - https://hub.qovery.com/guides/engineering/t
 
 Linux on the Desktop: Part Two - https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/
 
+* GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling
+:PROPERTIES:
+:CREATED:  [2021-09-21 Tue 06:32]
+:END:
+
+GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling - https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/
+
+* Let's Encrypt's old Root Certificate is expiring
+:PROPERTIES:
+:CREATED:  [2021-09-21 Tue 06:34]
+:END:
+
+Let's Encrypt's old Root Certificate is expiring - https://scotthelme.co.uk/lets-encrypt-old-root-expiration/
+
+* Practical Front-End Architecture
+:PROPERTIES:
+:CREATED:  [2021-09-21 Tue 23:44]
+:END:
+
+Practical Front-End Architecture - https://jaredgorski.org/writing/14-practical-frontend-architecture/
+
+* What's New in Apache Kafka 3.0.0
+:PROPERTIES:
+:CREATED:  [2021-09-21 Tue 23:45]
+:END:
+
+What's New in Apache Kafka 3.0.0 - https://blogs.apache.org/kafka/entry/what-s-new-in-apache6
+
