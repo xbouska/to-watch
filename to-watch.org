@@ -1,5 +1,5 @@
 # -*- mode: org; org-tags-column: 0; -*-
-
+#+OPTIONS:  todo:t
 * TODO NestedText, a nice alternative to JSON, YAML, TOML
 :PROPERTIES:
 :from:     hn
