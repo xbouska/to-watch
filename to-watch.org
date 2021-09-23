@@ -4119,3 +4119,24 @@ Practical Front-End Architecture - https://jaredgorski.org/writing/14-practical-
 
 What's New in Apache Kafka 3.0.0 - https://blogs.apache.org/kafka/entry/what-s-new-in-apache6
 
+* Waydroid – Run Android containers on Ubuntu
+:PROPERTIES:
+:CREATED:  [2021-09-22 Wed 23:34]
+:END:
+
+Waydroid – Run Android containers on Ubuntu - https://waydro.id/
+
+* Command line wizardry, part two: Variables and loops in Bash
+:PROPERTIES:
+:CREATED:  [2021-09-22 Wed 23:41]
+:END:
+
+Command line wizardry, part two: Variables and loops in Bash - https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables-and-loops-in-bash/
+
+* Enumerating and analyzing 40 non-V8 JavaScript implementations
+:PROPERTIES:
+:CREATED:  [2021-09-22 Wed 23:43]
+:END:
+
+Enumerating and analyzing 40 non-V8 JavaScript implementations - https://notes.eatonphil.com/javascript-implementations.html
+
