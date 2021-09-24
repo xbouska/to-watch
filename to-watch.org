@@ -1,5 +1,6 @@
 # -*- mode: org; org-tags-column: 0; -*-
 #+OPTIONS:  todo:t
+
 * TODO NestedText, a nice alternative to JSON, YAML, TOML
 :PROPERTIES:
 :from:     hn
@@ -4139,4 +4140,16 @@ Command line wizardry, part two: Variables and loops in Bash - https://arstechni
 :END:
 
 Enumerating and analyzing 40 non-V8 JavaScript implementations - https://notes.eatonphil.com/javascript-implementations.html
+
+* Evolution of the Unix System Architecture: An Exploratory Case Study
+:PROPERTIES:
+:CREATED:  [2021-09-23 Thu 19:26]
+:END:
+
+Evolution of the Unix System Architecture: An Exploratory Case Study - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965&tag=1
+
+* https://dev.to/thenjdevopsguy/devops-vs-sre-what-s-the-difference-560d
+:PROPERTIES:
+:CREATED:  [2021-09-24 Fri 06:56]
+:END:
 
