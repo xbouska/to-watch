@@ -4153,3 +4153,136 @@ Evolution of the Unix System Architecture: An Exploratory Case Study - https://i
 :CREATED:  [2021-09-24 Fri 06:56]
 :END:
 
+* Lessons learned from running GraphQL at scale
+:PROPERTIES:
+:CREATED:  [2021-09-25 Sat 09:07]
+:END:
+
+Lessons learned from running GraphQL at scale - https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb
+
+* Big problems at the timezone database
+:PROPERTIES:
+:CREATED:  [2021-09-25 Sat 09:10]
+:END:
+
+Big problems at the timezone database - https://blog.joda.org/2021/09/big-problems-at-timezone-database.html
+
+* We killed our end-to-end test suite
+:PROPERTIES:
+:CREATED:  [2021-09-25 Sat 09:13]
+:END:
+
+We killed our end-to-end test suite - https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/
+
+* 10 Java Developer Skills that are in High Demand - DEV Community
+:PROPERTIES:
+:CREATED:  [2021-09-25 Sat 12:47]
+:END:
+
+https://dev.to/alexxjordan/10-java-developer-skills-that-are-in-high-demand-54mm
+
+* Why and How to Upgrade to Java 16 or 17
+:PROPERTIES:
+:CREATED:  [2021-09-25 Sat 16:41]
+:END:
+
+https://www.infoq.com/articles/why-how-upgrade-java17/
+
+* Category Theory Illustrated – Logic
+:PROPERTIES:
+:CREATED:  [2021-09-27 Mon 06:24]
+:END:
+
+Category Theory Illustrated – Logic - https://boris-marinov.github.io/category-theory-illustrated/05_logic/
+
+* Pgloader: A High-Speed PostgreSQL Swiss Army Knife, Written in Lisp
+:PROPERTIES:
+:CREATED:  [2021-09-27 Mon 06:30]
+:END:
+
+Pgloader: A High-Speed PostgreSQL Swiss Army Knife, Written in Lisp - https://pgloader.io/
+
+* EFF to deprecate HTTPS Everywhere extension as HTTPS is becoming ubiquitous
+:PROPERTIES:
+:CREATED:  [2021-09-27 Mon 06:33]
+:END:
+
+EFF to deprecate HTTPS Everywhere extension as HTTPS is becoming ubiquitous - https://therecord.media/eff-to-deprecate-https-everywhere-extension-as-https-is-becoming-ubiquitous/
+
+* Code Review from the Command Line
+:PROPERTIES:
+:CREATED:  [2021-09-27 Mon 06:39]
+:END:
+
+Code Review from the Command Line - https://blog.jez.io/cli-code-review/
+
+* Researchers Identify Weakness in Microsoft WPBT
+:PROPERTIES:
+:CREATED:  [2021-09-28 Tue 18:04]
+:END:
+
+Researchers Identify Weakness in Microsoft WPBT - https://eclypsium.com/2021/09/20/everyone-gets-a-rootkit/
+
+* Moiré No More
+:PROPERTIES:
+:CREATED:  [2021-09-28 Tue 20:23]
+:END:
+
+Moiré No More - https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319
+
+* Migrating from App Engine to Google Kubernetes Engine
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:36]
+:END:
+
+Migrating from App Engine to Google Kubernetes Engine - https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/
+
+* Podman in Linux
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:37]
+:END:
+
+Podman in Linux - http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html
+
+* Humans as geomorphic agents: Lidar detection of Teotihuacan Valley, Mexico
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:37]
+:END:
+
+Humans as geomorphic agents: Lidar detection of Teotihuacan Valley, Mexico - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257550
+
+* A brief evaluation of mostly open-source speech recognition packages
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:38]
+:END:
+
+A brief evaluation of mostly open-source speech recognition packages - https://techberet.com/2021/09/24/brief-evaluation-speech-recognition.html
+
+* Linux Cookbook, 2nd Edition PDF
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:39]
+:END:
+
+Linux Cookbook, 2nd Edition PDF - https://www.lunaticai.com/2021/08/linux-cookbook-oreilly-pdf.html
+
+* A visual C4 model tool for your team
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:40]
+:END:
+
+A visual C4 model tool for your team - https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch
+
+* Moiré No More
+:PROPERTIES:
+:CREATED:  [2021-09-29 Wed 06:42]
+:END:
+
+Moiré No More - https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319
+
+* A Short Overview of Typed Template Haskell
+:PROPERTIES:
+:CREATED:  [2021-09-30 Thu 06:41]
+:END:
+
+A Short Overview of Typed Template Haskell - https://serokell.io/blog/typed-template-haskell-overview
+
