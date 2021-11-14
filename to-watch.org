@@ -5425,3 +5425,150 @@ We saved millions in SSD costs by upgrading our filesystem - https://heap.io/blo
 
 $ sudo rm -rf / === NPM install - https://ghuntley.com/sudo-rm-rf/
 
+* Haskell IHP Framework, from a Technical and Business Perspective
+:PROPERTIES:
+:CREATED:  [2021-11-11 Thu 15:12]
+:END:
+
+Haskell IHP Framework, from a Technical and Business Perspective - https://www.gizra.com/content/haskell-ihp/
+
+* Logs and tracing: not just for production, local development too
+:PROPERTIES:
+:CREATED:  [2021-11-11 Thu 15:13]
+:END:
+
+Logs and tracing: not just for production, local development too - https://incident.io/blog/tracing/
+
+* Types and Programming Languages (2002)
+:PROPERTIES:
+:CREATED:  [2021-11-11 Thu 15:13]
+:END:
+
+Types and Programming Languages (2002) - https://mitpress.mit.edu/books/types-and-programming-languages
+
+* Git techniques
+:PROPERTIES:
+:CREATED:  [2021-11-11 Thu 15:14]
+:END:
+
+Git techniques - https://riskledger.com/blog/git-basics-at-risk-ledger/
+
+* Useful sed scripts and patterns for day to day usage
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 06:39]
+:END:
+
+Useful sed scripts and patterns for day to day usage - https://github.com/adrianscheff/useful-sed
+
+* New – EC2 Instances (G5) with Nvidia A10G Tensor Core GPUs
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 06:41]
+:END:
+
+New – EC2 Instances (G5) with Nvidia A10G Tensor Core GPUs - https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/
+
+* SLO alerting for mortals
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 06:41]
+:END:
+
+SLO alerting for mortals - https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/
+
+* Querying AWS at scale across APIs, regions, and accounts
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 06:42]
+:END:
+
+Querying AWS at scale across APIs, regions, and accounts - https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/
+
+* Launch HN: Hightouch (YC S19) – Sync data from data warehouses to SaaS tools
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 09:07]
+:END:
+
+Launch HN: Hightouch (YC S19) – Sync data from data warehouses to SaaS tools - https://news.ycombinator.com/item?id=29188544
+
+* Make your monorepo feel small with Git’s sparse index
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 09:07]
+:END:
+
+Make your monorepo feel small with Git’s sparse index - https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
+
+* Querying AWS at scale across APIs, regions, and accounts
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 09:07]
+:END:
+
+Querying AWS at scale across APIs, regions, and accounts - https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/
+
+* Why Lisp?
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:22]
+:END:
+
+Why Lisp? - https://atlas.engineer/technical-article/why-lisp.org
+
+* Using OAuth to add authentication to a React app
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:28]
+:END:
+
+Using OAuth to add authentication to a React app - https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/
+
+* RePalm
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:28]
+:END:
+
+RePalm - http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
+
+* The experience of colour: A new book reveals the history of colour
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:37]
+:END:
+
+The experience of colour: A new book reveals the history of colour - https://www.prospectmagazine.co.uk/arts-and-books/the-experience-of-colour
+
+* Launch HN: Dendron (YC W21) – Structured note-taking for developers and teams
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:39]
+:END:
+
+Launch HN: Dendron (YC W21) – Structured note-taking for developers and teams - https://news.ycombinator.com/item?id=29176158
+
+* Scroll: Extensible Alternative to Markdown
+:PROPERTIES:
+:CREATED:  [2021-11-12 Fri 20:40]
+:END:
+
+Scroll: Extensible Alternative to Markdown - https://scroll.pub/
+
+* Higher Math for Beginners (1987)
+:PROPERTIES:
+:CREATED:  [2021-11-13 Sat 09:05]
+:END:
+
+Higher Math for Beginners (1987) - https://archive.org/details/ZeldovichYaglomHigherMathematics
+
+* Fantasy Map Generator (2018)
+:PROPERTIES:
+:CREATED:  [2021-11-13 Sat 09:06]
+:END:
+
+Fantasy Map Generator (2018) - https://azgaar.github.io/Fantasy-Map-Generator/
+
+* Lambdas
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 07:54]
+:END:
+
+https://dzone.com/articles/fast-spring-boot-aws-lambdas-with-graalvm
+
+* Spring sqd
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 07:55]
+:END:
+
+https://nirajsonawane.github.io/2021/05/09/Spring-Boot-with-AWS-sqs/
+
