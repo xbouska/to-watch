@@ -5572,3 +5572,59 @@ https://dzone.com/articles/fast-spring-boot-aws-lambdas-with-graalvm
 
 https://nirajsonawane.github.io/2021/05/09/Spring-Boot-with-AWS-sqs/
 
+* In ‘learning trap’ experiment, adults leap to conclusions while children explore
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:57]
+:END:
+
+In ‘learning trap’ experiment, adults leap to conclusions while children explore - https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185
+
+* 0xA000 Font Family – A tile mastered font-family
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:58]
+:END:
+
+0xA000 Font Family – A tile mastered font-family - https://pippin.gimp.org/0xA000/
+
+* Spotify Codes – Part 2
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:58]
+:END:
+
+Spotify Codes – Part 2 - https://boonepeter.github.io/posts/spotify-codes-part-2/
+
+* Show HN: Plain Org – A new org mode app for iOS
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:58]
+:END:
+
+Show HN: Plain Org – A new org mode app for iOS - https://apps.apple.com/us/app/plain-org/id1578965002
+
+* Managing an external display on Linux shouldn’t be this hard
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:58]
+:END:
+
+Managing an external display on Linux shouldn’t be this hard - https://changelog.complete.org/archives/10311-managing-an-external-display-on-linux-shouldnt-be-this-hard
+
+* Project Euler
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:59]
+:END:
+
+Project Euler - https://projecteuler.net
+
+* The strong and weak forces of architecture
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 08:59]
+:END:
+
+The strong and weak forces of architecture - https://martinfowler.com/articles/strong-weak-arch.html
+
+* Dragging Haskell Kicking and Screaming into the Century of the Fruitbat
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 09:00]
+:END:
+
+Dragging Haskell Kicking and Screaming into the Century of the Fruitbat - https://reasonablypolymorphic.com/blog/century-of-the-fruitbat/
+
