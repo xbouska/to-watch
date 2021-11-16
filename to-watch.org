@@ -5628,3 +5628,24 @@ The strong and weak forces of architecture - https://martinfowler.com/articles/s
 
 Dragging Haskell Kicking and Screaming into the Century of the Fruitbat - https://reasonablypolymorphic.com/blog/century-of-the-fruitbat/
 
+* Hacker News
+:PROPERTIES:
+:CREATED:  [2021-11-14 Sun 16:54]
+:END:
+
+https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/
+
+* 12
+:PROPERTIES:
+:CREATED:  [2021-11-15 Mon 06:42]
+:END:
+
+https://dzone.com/articles/12-factor-app-principles-and-cloud-native-microser-1
+
+* Bayesian Optimization Book
+:PROPERTIES:
+:CREATED:  [2021-11-15 Mon 06:45]
+:END:
+
+Bayesian Optimization Book - https://bayesoptbook.com//
+
