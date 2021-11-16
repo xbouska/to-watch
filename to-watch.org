@@ -5649,3 +5649,17 @@ https://dzone.com/articles/12-factor-app-principles-and-cloud-native-microser-1
 
 Bayesian Optimization Book - https://bayesoptbook.com//
 
+* When Did Computer Science Theory Get So Hard?
+:PROPERTIES:
+:CREATED:  [2021-11-16 Tue 18:31]
+:END:
+
+When Did Computer Science Theory Get So Hard? - http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html
+
+* Greenfield – The In-Browser Wayland Compositor
+:PROPERTIES:
+:CREATED:  [2021-11-16 Tue 18:32]
+:END:
+
+Greenfield – The In-Browser Wayland Compositor - https://github.com/udevbe/greenfield
+
