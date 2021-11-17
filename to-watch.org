@@ -5663,3 +5663,10 @@ When Did Computer Science Theory Get So Hard? - http://blog.computationalcomplex
 
 Greenfield – The In-Browser Wayland Compositor - https://github.com/udevbe/greenfield
 
+* Types of Parser Combinators
+:PROPERTIES:
+:CREATED:  [2021-11-17 Wed 05:53]
+:END:
+
+Types of Parser Combinators - https://sgt.hootr.club/molten-matter/types-of-parser-combinators/
+
