@@ -5670,3 +5670,66 @@ Greenfield – The In-Browser Wayland Compositor - https://github.com/udevbe/gre
 
 Types of Parser Combinators - https://sgt.hootr.club/molten-matter/types-of-parser-combinators/
 
+* Forth vs Lisp
+:PROPERTIES:
+:CREATED:  [2021-11-17 Wed 22:47]
+:END:
+
+Forth vs Lisp - https://wiki.c2.com/?ForthVsLisp
+
+* The Bug in Paxos Made Simple
+:PROPERTIES:
+:CREATED:  [2021-11-17 Wed 22:51]
+:END:
+
+The Bug in Paxos Made Simple - https://brooker.co.za/blog/2021/11/16/paxos.html
+
+* How to grow sodium chloride crystals at home
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:30]
+:END:
+
+How to grow sodium chloride crystals at home - https://crystalverse.com/sodium-chloride-crystals/
+
+* React Router 6 Tutorial
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:30]
+:END:
+
+React Router 6 Tutorial - https://www.robinwieruch.de/react-router/
+
+* REST API for any Postgres database
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:30]
+:END:
+
+REST API for any Postgres database - https://postgrest.org/en/v8.0/
+
+* CSS Is an Interface
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:31]
+:END:
+
+CSS Is an Interface - https://ericwbailey.design/writing/your-css-is-an-interface/
+
+* Learn RegEx step by step, from zero to advanced
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:32]
+:END:
+
+Learn RegEx step by step, from zero to advanced - https://regexlearn.com/
+
+* Ephemeral Postgres Databases
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 02:32]
+:END:
+
+Ephemeral Postgres Databases - https://eradman.com/posts/ephemeral-databases.html
+
+* Org Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017)
+:PROPERTIES:
+:CREATED:  [2021-11-18 Thu 20:41]
+:END:
+
+Org Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017) - https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+
