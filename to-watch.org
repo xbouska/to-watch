@@ -5733,3 +5733,437 @@ Ephemeral Postgres Databases - https://eradman.com/posts/ephemeral-databases.htm
 
 Org Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017) - https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
 
+* Flags vs. Gates
+:PROPERTIES:
+:CREATED:  [2021-11-19 Fri 21:13]
+:END:
+
+Flags vs. Gates - https://brandur.org/fragments/flags-v-gates
+
+* Zstandard RFC 8878
+:PROPERTIES:
+:CREATED:  [2021-11-19 Fri 21:14]
+:END:
+
+Zstandard RFC 8878 - https://datatracker.ietf.org/doc/html/rfc8878
+
+* Websocket
+:PROPERTIES:
+:CREATED:  [2021-11-21 Sun 14:20]
+:END:
+
+https://www.developer.com/web-services/intro-web-sockets/
+
+* Data Oriented Design (first chapter)
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:02]
+:END:
+
+Data Oriented Design (first chapter) - https://dataorienteddesign.com/dodbook/node2.html
+
+* CS615 – System Administration
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:05]
+:END:
+
+CS615 – System Administration - https://stevens.netmeister.org/615/
+
+* Microservices Architecture on Google Cloud
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:05]
+:END:
+
+Microservices Architecture on Google Cloud - https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud
+
+* Functorio
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:06]
+:END:
+
+Functorio - https://bartoszmilewski.com/2021/02/16/functorio/
+
+* There are infinite worlds to explore
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:07]
+:END:
+
+There are infinite worlds to explore - https://moultano.wordpress.com/2021/08/23/doorways/
+
+* The Snowflakes as Code Antipattern
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:07]
+:END:
+
+The Snowflakes as Code Antipattern - https://infrastructure-as-code.com/book/2021/11/19/snowflakes-as-code.html
+
+* Ask HN: What mental models do you use everyday?
+:PROPERTIES:
+:CREATED:  [2021-11-22 Mon 21:09]
+:END:
+
+Ask HN: What mental models do you use everyday? - https://news.ycombinator.com/item?id=29297594
+
+* HATEOAS: An Alternative Explaination
+:PROPERTIES:
+:CREATED:  [2021-11-23 Tue 05:23]
+:END:
+
+HATEOAS: An Alternative Explaination - https://htmx.org/essays/hateoas/
+
+* Efficient IN Operator Queries in Postgres
+:PROPERTIES:
+:CREATED:  [2021-11-23 Tue 05:55]
+:END:
+
+Efficient IN Operator Queries in Postgres - https://docs.gitlab.com/ee/development/database/efficient_in_operator_queries.html
+
+* Games for IBM AS/400
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:46]
+:END:
+
+Games for IBM AS/400 - http://www.jcrcmds.com/jcrgames2.html
+
+* On yak shaving and &lt;md-block&gt;, a new HTML element for Markdown
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:47]
+:END:
+
+On yak shaving and &lt;md-block&gt;, a new HTML element for Markdown - https://lea.verou.me/2021/11/on-yak-shaving-and-md-block-an-html-element-for-markdown/
+
+* Features of PL/I not realized in a modern language
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:47]
+:END:
+
+Features of PL/I not realized in a modern language - https://minnie.tuhs.org/pipermail/tuhs/2021-November/024695.html
+
+* Theoretical Computer Science Cheat Sheet [pdf]
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:48]
+:END:
+
+Theoretical Computer Science Cheat Sheet [pdf] - https://www.tug.org/texshowcase/cheat.pdf
+
+* The fish shell is amazing
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:49]
+:END:
+
+The fish shell is amazing - https://rmpr.xyz/the-fish-shell-is-amazing/
+
+* Batteries included with Emacs (2020)
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:49]
+:END:
+
+Batteries included with Emacs (2020) - https://karthinks.com/software/batteries-included-with-emacs/
+
+* Betting on the New Gumroad
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:50]
+:END:
+
+Betting on the New Gumroad - https://gumroad.com/new-path
+
+* What next? 22 emerging technologies to watch in 2022
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:52]
+:END:
+
+What next? 22 emerging technologies to watch in 2022 - https://www.economist.com/the-world-ahead/2021/11/08/what-next-22-emerging-technologies-to-watch-in-2022
+
+* Museum of Plugs and Sockets
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:52]
+:END:
+
+Museum of Plugs and Sockets - https://www.plugsocketmuseum.nl/
+
+* Euler’s number pops up in situations that involve optimality
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:53]
+:END:
+
+Euler’s number pops up in situations that involve optimality - https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/
+
+* GC progress from JDK 8 to JDK 17
+:PROPERTIES:
+:CREATED:  [2021-11-26 Fri 22:53]
+:END:
+
+GC progress from JDK 8 to JDK 17 - https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html
+
+* My Custom CSS Reset
+:PROPERTIES:
+:CREATED:  [2021-11-27 Sat 05:49]
+:END:
+
+My Custom CSS Reset - https://www.joshwcomeau.com/css/custom-css-reset/
+
+* Micro BGP Suite: The Swiss Army Knife of Routing Analysis
+:PROPERTIES:
+:CREATED:  [2021-11-27 Sat 05:58]
+:END:
+
+Micro BGP Suite: The Swiss Army Knife of Routing Analysis - https://labs.ripe.net/author/lorenzo_cogotti/micro-bgp-suite-the-swiss-army-knife-of-routing-analysis/
+
+* Exiting the Vietnam of programming: our journey in dropping the ORM in Go
+:PROPERTIES:
+:CREATED:  [2021-11-27 Sat 05:58]
+:END:
+
+Exiting the Vietnam of programming: our journey in dropping the ORM in Go - https://alanilling.medium.com/exiting-the-vietnam-of-programming-our-journey-in-dropping-the-orm-in-golang-3ce7dff24a0f
+
+* Comparison of Operating System Complexity (2020) [pdf]
+:PROPERTIES:
+:CREATED:  [2021-11-27 Sat 23:10]
+:END:
+
+Comparison of Operating System Complexity (2020) [pdf] - https://pspodcasting.net/dan/blog/2020/complexity.pdf
+
+* EmacsConf 2021 – Live Now
+:PROPERTIES:
+:CREATED:  [2021-11-27 Sat 23:13]
+:END:
+
+EmacsConf 2021 – Live Now - https://live.emacsconf.org/main.html
+
+* Books that changed my career as a software engineer
+:PROPERTIES:
+:CREATED:  [2021-11-28 Sun 03:55]
+:END:
+
+Books that changed my career as a software engineer - https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/
+
+* Schemaverse, a space based strategy game to learn PostgreSQL
+:PROPERTIES:
+:CREATED:  [2021-11-29 Mon 06:49]
+:END:
+
+Schemaverse, a space based strategy game to learn PostgreSQL - https://schemaverse.com/
+
+* Types for Tables: A Language Design Benchmark
+:PROPERTIES:
+:CREATED:  [2021-11-29 Mon 07:00]
+:END:
+
+Types for Tables: A Language Design Benchmark - https://programming-journal.org/2022/6/8/
+
+* Emacs Docs The modern documentation website Emacs deserves
+:PROPERTIES:
+:CREATED:  [2021-11-30 Tue 06:30]
+:END:
+
+Emacs Docs The modern documentation website Emacs deserves - https://www.emacsdocs.org/
+
+* Pull Through Cache Repositories for Amazon Elastic Container Registry
+:PROPERTIES:
+:CREATED:  [2021-11-30 Tue 06:33]
+:END:
+
+Pull Through Cache Repositories for Amazon Elastic Container Registry - https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/
+
+* Show HN: An AWS Savings Plans Calculator
+:PROPERTIES:
+:CREATED:  [2021-11-30 Tue 06:34]
+:END:
+
+Show HN: An AWS Savings Plans Calculator - https://cloudshim.com/calculator
+
+* Experiments in Constraint-based Graphic Design (2019)
+:PROPERTIES:
+:CREATED:  [2021-11-30 Tue 06:37]
+:END:
+
+Experiments in Constraint-based Graphic Design (2019) - https://www.anishathalye.com/2019/12/12/constraint-based-graphic-design/
+
+* ImageMagick: CLI for Image Editing
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:14]
+:END:
+
+ImageMagick: CLI for Image Editing - https://imagemagick.org/script/index.php
+
+* Advent of Code 2021
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:15]
+:END:
+
+Advent of Code 2021 - https://adventofcode.com/
+
+* A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:15]
+:END:
+
+A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system - https://github.com/jes/scamp-cpu
+
+* Realtime Postgres Row Level Security
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:16]
+:END:
+
+Realtime Postgres Row Level Security - https://supabase.com/blog/2021/12/01/realtime-row-level-security-in-postgresql
+
+* Some thoughts on microservices
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:17]
+:END:
+
+Some thoughts on microservices - https://filipnikolovski.com/posts/thoughts-on-microservices/
+
+* Amazon S3 Glacier Instant Retrieval Storage Class
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:17]
+:END:
+
+Amazon S3 Glacier Instant Retrieval Storage Class - https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/
+
+* Backpressure – the resisted flow of data through software
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:17]
+:END:
+
+Backpressure – the resisted flow of data through software - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
+
+* What I learned about interviewing
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:22]
+:END:
+
+What I learned about interviewing - https://lanie.dev/tech/interviewing/
+
+* Check this out on Amazon
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:30]
+:END:
+
+Plastic Fantastic: How the Biggest Fraud in Physics Shook the Scientific World (MacSci) https://www.amazon.com/dp/0230224679/ref=cm_sw_r_awdo_navT_g_W4848SN8C5RN0KD0C91K
+
+* Can you safely parse a double when you need a float?
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:34]
+:END:
+
+Can you safely parse a double when you need a float? - https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float/
+
+* German Court Rules Against Internet Security Non-Profit Quad9
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:34]
+:END:
+
+German Court Rules Against Internet Security Non-Profit Quad9 - https://www.quad9.net/news/press/german-court-rules-against/
+
+* A Case for Asynchronous Computer Architecture (2000) [pdf]
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:40]
+:END:
+
+A Case for Asynchronous Computer Architecture (2000) [pdf] - http://avlsi.csl.yale.edu/~rajit/ps/async-case.pdf
+
+* AWS Outposts
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:41]
+:END:
+
+AWS Outposts - https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/
+
+* A Famous Argument Against Free Will Has Been Debunked (2019)
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:42]
+:END:
+
+A Famous Argument Against Free Will Has Been Debunked (2019) - https://www.theatlantic.com/health/archive/2019/09/free-will-bereitschaftspotential/597736/
+
+* The Fibonacci Sequence as a Functor
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:42]
+:END:
+
+The Fibonacci Sequence as a Functor - https://www.math3ma.com/blog/fibonacci-sequence
+
+* What impossible meant to Richard Feynman
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:47]
+:END:
+
+What impossible meant to Richard Feynman - https://nautil.us/issue/108/change/what-impossible-meant-to-richard-feynman
+
+* An Illustrated Guide to Elliptic Curve Cryptography Validation
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:47]
+:END:
+
+An Illustrated Guide to Elliptic Curve Cryptography Validation - https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/
+
+* Event Sourcing Is Hard (2019)
+:PROPERTIES:
+:CREATED:  [2021-12-01 Wed 22:48]
+:END:
+
+Event Sourcing Is Hard (2019) - https://chriskiehl.com/article/event-sourcing-is-hard
+
+* Gitgub repos
+:PROPERTIES:
+:CREATED:  [2021-12-02 Thu 07:45]
+:END:
+
+https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351
+
+* Emacs: Avy Can Do Anything
+:PROPERTIES:
+:CREATED:  [2021-12-03 Fri 06:36]
+:END:
+
+Emacs: Avy Can Do Anything - https://karthinks.com/software/avy-can-do-anything/
+
+* Libtree: Turns ldd into a tree; explains why shared libraries are found or not
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:33]
+:END:
+
+Libtree: Turns ldd into a tree; explains why shared libraries are found or not - https://github.com/haampie/libtree
+
+* Show HN: I made a book with a hundred UI/UX tips
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:36]
+:END:
+
+Show HN: I made a book with a hundred UI/UX tips - https://news.ycombinator.com/item?id=29437527
+
+* AWS Amplify Studio: Figma design to full-stack apps
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:41]
+:END:
+
+AWS Amplify Studio: Figma design to full-stack apps - https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/
+
+* Common Infrastructure Errors I've Made
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:44]
+:END:
+
+Common Infrastructure Errors I've Made - https://matduggan.com/mistakes/
+
+* Keep a Log
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:46]
+:END:
+
+Keep a Log - https://bruno-oliveira.github.io/techblog/Keep-a-log/
+
+* Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:48]
+:END:
+
+Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers - https://github.com/rclone/rclone
+
+* Show HN: A tool to build real websites built exclusively in SVG
+:PROPERTIES:
+:CREATED:  [2021-12-04 Sat 08:54]
+:END:
+
+Show HN: A tool to build real websites built exclusively in SVG - https://svija.love
+
