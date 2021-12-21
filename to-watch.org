@@ -6167,3 +6167,197 @@ Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers 
 
 Show HN: A tool to build real websites built exclusively in SVG - https://svija.love
 
+* Async I/O for Dummies (2018)
+:PROPERTIES:
+:CREATED:  [2021-12-05 Sun 21:45]
+:END:
+
+Async I/O for Dummies (2018) - https://www.alwaysrightinstitute.com/async-io-by-example/
+
+* New EC2 Instance Types of re:Invent 2021
+:PROPERTIES:
+:CREATED:  [2021-12-05 Sun 21:45]
+:END:
+
+New EC2 Instance Types of re:Invent 2021 - https://aws-native.com/new-ec2-instance-types-of-reinvent-2021
+
+* But what about the bus factor?
+:PROPERTIES:
+:CREATED:  [2021-12-05 Sun 21:45]
+:END:
+
+But what about the bus factor? - https://www.michaelbromley.co.uk/blog/but-what-about-the-bus-factor/
+
+* Kubernetes at Home with K3s
+:PROPERTIES:
+:CREATED:  [2021-12-05 Sun 21:46]
+:END:
+
+Kubernetes at Home with K3s - https://blog.nootch.net/post/kubernetes-at-home-with-k3s/
+
+* A Gentle Introduction to Relational Programming with MicroKanren
+:PROPERTIES:
+:CREATED:  [2021-12-05 Sun 21:46]
+:END:
+
+A Gentle Introduction to Relational Programming with MicroKanren - https://erik-j.de/microkanren/
+
+* Show HN: Fourier Transform Visualized via WebGL
+:PROPERTIES:
+:CREATED:  [2021-12-06 Mon 06:28]
+:END:
+
+Show HN: Fourier Transform Visualized via WebGL - https://static.laszlokorte.de/fourier/
+
+* https://www.reddit.com/r/GooglePixel/comments/r4xz1f/comment/hnrvsr1/?utm%25255C_source=share&utm%25255C_medium=web2x&context=3&utm_source=reddit&utm_medium=usertext&utm_name=GooglePixel&utm_content=t1_hnrwb4v
+:PROPERTIES:
+:CREATED:  [2021-12-09 Thu 06:43]
+:END:
+
+* Training computer vision models on random noise instead of real images
+:PROPERTIES:
+:CREATED:  [2021-12-10 Fri 06:49]
+:END:
+
+Training computer vision models on random noise instead of real images - https://www.unite.ai/training-computer-vision-models-on-random-noise-instead-of-real-images/
+
+* Faster Gitlab CI/CD pipelines
+:PROPERTIES:
+:CREATED:  [2021-12-10 Fri 06:49]
+:END:
+
+Faster Gitlab CI/CD pipelines - https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/
+
+* NGS – Next Generation Shell
+:PROPERTIES:
+:CREATED:  [2021-12-10 Fri 06:49]
+:END:
+
+NGS – Next Generation Shell - https://ngs-lang.org/
+
+* Quaternions
+:PROPERTIES:
+:CREATED:  [2021-12-11 Sat 05:09]
+:END:
+
+Quaternions - https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html
+
+* Old CSS, New CSS
+:PROPERTIES:
+:CREATED:  [2021-12-12 Sun 20:45]
+:END:
+
+Old CSS, New CSS - https://eev.ee/blog/2020/02/01/old-css-new-css/
+
+* Getting started with Haskell projects using Scotty - Tutorials
+:PROPERTIES:
+:CREATED:  [2021-12-12 Sun 22:52]
+:END:
+
+https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/
+
+* Show HN: I wrote a comprehensive book on web application deployment
+:PROPERTIES:
+:CREATED:  [2021-12-14 Tue 00:04]
+:END:
+
+Show HN: I wrote a comprehensive book on web application deployment - https://deploymentfromscratch.com/
+
+* Cheating at a company group activity using Unix tools
+:PROPERTIES:
+:CREATED:  [2021-12-14 Tue 06:48]
+:END:
+
+Cheating at a company group activity using Unix tools - https://medium.com/fundbox-engineering/cheating-at-a-company-group-activity-using-unix-tools-5c1d706f3d58
+
+* Create-React-App v5 has been released
+:PROPERTIES:
+:CREATED:  [2021-12-14 Tue 23:11]
+:END:
+
+Create-React-App v5 has been released - https://github.com/facebook/create-react-app/releases/tag/v5.0.0
+
+* Postgres is a great pub/sub and job server (2019)
+:PROPERTIES:
+:CREATED:  [2021-12-18 Sat 08:38]
+:END:
+
+Postgres is a great pub/sub and job server (2019) - https://webapp.io/blog/postgres-is-the-answer/
+
+* HTTP Toolkit
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:50]
+:END:
+
+HTTP Toolkit - https://httptoolkit.tech/
+
+* Hunting Tech Debt via Org Charts
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:50]
+:END:
+
+Hunting Tech Debt via Org Charts - https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145
+
+* How to lure employees back to the office? You can't. Not now. Not ever
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:51]
+:END:
+
+How to lure employees back to the office? You can't. Not now. Not ever - https://www.zdnet.com/article/they-really-arent-going-back-work-from-home-is-here-to-stay/
+
+* Why Architecture Oriented Programming Matters (2019)
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:52]
+:END:
+
+Why Architecture Oriented Programming Matters (2019) - https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html
+
+* A mental model for decentralization
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:52]
+:END:
+
+A mental model for decentralization - https://jacobobryant.com/p/mental-model-decentralization/
+
+* The Big DevOps Misunderstanding
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:54]
+:END:
+
+The Big DevOps Misunderstanding - https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd
+
+* Ask HN: Top Skills to Learn for 2022?
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:54]
+:END:
+
+Ask HN: Top Skills to Learn for 2022? - https://news.ycombinator.com/item?id=29627124
+
+* Show HN: Got is like Git, but with an 'o'
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:55]
+:END:
+
+Show HN: Got is like Git, but with an 'o' - https://github.com/gotvc/got
+
+* Wxrd, a standalone Wayland compositor for xrdesktop
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:55]
+:END:
+
+Wxrd, a standalone Wayland compositor for xrdesktop - https://www.collabora.com/news-and-blog/news-and-events/wxrd-a-standalone-wayland-compositor-for-xrdesktop.html
+
+* Annotated explanation of David Beazley's dataklasses
+:PROPERTIES:
+:CREATED:  [2021-12-20 Mon 22:57]
+:END:
+
+Annotated explanation of David Beazley's dataklasses - https://til.simonwillison.net/python/annotated-dataklasses
+
+* PR to Merge Multicore OCaml
+:PROPERTIES:
+:CREATED:  [2021-12-21 Tue 20:22]
+:END:
+
+PR to Merge Multicore OCaml - https://github.com/ocaml/ocaml/pull/10831
+
